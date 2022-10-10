@@ -1,0 +1,5216 @@
+[
+  {
+    "title": "Show HN: I built a site that finds the cheapest place to buy a book (pagesonpages.com)",
+    "votes": 231,
+    "username": "shnksi",
+    "time": 9
+  },
+  {
+    "title": "Helix: A Neovim inspired editor, written in Rust (github.com/helix-editor)",
+    "votes": 218,
+    "username": "behnamoh",
+    "time": 8
+  },
+  {
+    "title": "Swiss Post Design System (swisspost-web-frontend.netlify.app)",
+    "votes": 32,
+    "username": "denysvitali",
+    "time": 1
+  },
+  {
+    "title": "Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death (statnews.com)",
+    "votes": 137,
+    "username": "benchtobedside",
+    "time": 7
+  },
+  {
+    "title": "Probability (1963) (caltech.edu)",
+    "votes": 80,
+    "username": "rcshubhadeep",
+    "time": 2
+  },
+  {
+    "title": "I have come to bury the BIOS, not to open it [video] (osfc.io)",
+    "votes": 262,
+    "username": "pclmulqdq",
+    "time": 14
+  },
+  {
+    "title": "Why 23.976 and not 24 FPS? (2016) (cinematography.com)",
+    "votes": 230,
+    "username": "mfiguiere",
+    "time": 14
+  },
+  {
+    "title": "Osm-finder: \u201cline-network\u201d geolocation tool (github.com/xetnus)",
+    "votes": 7,
+    "username": "mzs",
+    "time": 2
+  },
+  {
+    "title": "Finding the Joy in Feeling Tired (jeanhsu.substack.com)",
+    "votes": 19,
+    "username": "kiyanwang",
+    "time": 4
+  },
+  {
+    "title": "Microblog.pub \u2013 A self-hosted, single-user, ActivityPub powered microblog (microblog.pub)",
+    "votes": 180,
+    "username": "nafnlj",
+    "time": 15
+  },
+  {
+    "title": "Show HN: I built a WASI playground for running CLI binaries in the browser (runno.dev)",
+    "votes": 87,
+    "username": "benno128",
+    "time": 11
+  },
+  {
+    "title": "Malicious update/malware by a semi-advanced adversary (axelp.io)",
+    "votes": 72,
+    "username": "CuckooExe",
+    "time": 9
+  },
+  {
+    "title": "Liberating the Smalltalk lurking in C and Unix (2014) [video] (youtube.com)",
+    "votes": 61,
+    "username": "Kinrany",
+    "time": 10
+  },
+  {
+    "title": "12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff (businessinsider.in)",
+    "votes": 68,
+    "username": "jiwidi",
+    "time": 4
+  },
+  {
+    "title": "Halfix \u2013 A portable x86 emulator written in C99 (github.com/nepx)",
+    "votes": 75,
+    "username": "peter_d_sherman",
+    "time": 11
+  },
+  {
+    "title": "TuM'Fatig \u2013 Ads blocking with OpenBSD unbound(8) (tumfatig.net)",
+    "votes": 8,
+    "username": "protomyth",
+    "time": 3
+  },
+  {
+    "title": "Tremor \u2013 React library to build dashboards fast (github.com/tremorlabs)",
+    "votes": 94,
+    "username": "bubblehack3r",
+    "time": 5
+  },
+  {
+    "title": "Energy vs. Sovereign Bond Markets (lynalden.com)",
+    "votes": 94,
+    "username": "jger15",
+    "time": 13
+  },
+  {
+    "title": "Show HN: Fractal Garden \u2013 An Exhibition of Mathematical Beauty (fractal.garden)",
+    "votes": 143,
+    "username": "trebeljahr",
+    "time": 15
+  },
+  {
+    "title": "How does a nail puncture a tire? (2003) (madsci.org)",
+    "votes": 54,
+    "username": "luu",
+    "time": 8
+  },
+  {
+    "title": "Enzian \u2013 An open research computer built by the Systems Group at ETH Zurich (enzian.systems)",
+    "votes": 51,
+    "username": "peter_d_sherman",
+    "time": 9
+  },
+  {
+    "title": "Why you can\u2019t tickle yourself (wired.com)",
+    "votes": 89,
+    "username": "Archelaos",
+    "time": 12
+  },
+  {
+    "title": "PDF processing and analysis with open-source tools (2021) (bitsgalore.org)",
+    "votes": 154,
+    "username": "miles",
+    "time": 14
+  },
+  {
+    "title": "Ugliest Airplane Ever Built Predicted the Future (hackaday.com)",
+    "votes": 146,
+    "username": "prostoalex",
+    "time": 16
+  },
+  {
+    "title": "Assyrian Soft Power (archaeology.org)",
+    "votes": 60,
+    "username": "Thevet",
+    "time": 11
+  },
+  {
+    "title": "Retro personal computer ads from the 1980s (rarehistoricalphotos.com)",
+    "votes": 113,
+    "username": "Brajeshwar",
+    "time": 17
+  },
+  {
+    "title": "How Wes Anderson Turned The New Yorker Into \u201cThe French Dispatch\u201d (newyorker.com)",
+    "votes": 38,
+    "username": "zeristor",
+    "time": 8
+  },
+  {
+    "title": "Functional Education (2014) (bitemyapp.com)",
+    "votes": 11,
+    "username": "Tomte",
+    "time": 4
+  },
+  {
+    "title": "Russians hit the office and R&D center of Samsung in Kyiv (mezha.media)",
+    "votes": 65,
+    "username": "yoft",
+    "time": 1
+  },
+  {
+    "title": "The Hummingbird Clock: date videos by background mains hum (hummingbirdclock.info)",
+    "votes": 495,
+    "username": "wodow",
+    "time": 21
+  },
+  {
+    "title": "Catalyst-free synthesis of sub-5 nm silicon nanowire arrays (nature.com)",
+    "votes": 17,
+    "username": "rntn",
+    "time": 5
+  },
+  {
+    "title": "\u201dSomeone got Doom running in Notepad at 60 FPS, somehow\u201d (escapistmagazine.com)",
+    "votes": 7,
+    "username": "sandebert",
+    "time": 1
+  },
+  {
+    "title": "Recent discoveries that have changed how we think about human origins (singularityhub.com)",
+    "votes": 86,
+    "username": "cheinyeanlim",
+    "time": 13
+  },
+  {
+    "title": "Nobel Prize in Economics Awarded to Ben Bernanke, Douglas Diamond, Philip Dybvig (nobelprize.org)",
+    "votes": 35,
+    "username": "jhshah",
+    "time": 1
+  },
+  {
+    "title": "Running GUI Linux in a virtual machine on a Mac (developer.apple.com)",
+    "votes": 310,
+    "username": "pram",
+    "time": 18
+  },
+  {
+    "title": "Made in America is back, leaving US factories scrambling to find workers (cnn.com)",
+    "votes": 168,
+    "username": "redbell",
+    "time": 12
+  },
+  {
+    "title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit (microjs.com)",
+    "votes": 71,
+    "username": "jer0me",
+    "time": 16
+  },
+  {
+    "title": "The Internet needs the InterPlanetary File System (ieee.org)",
+    "votes": 133,
+    "username": "sohkamyung",
+    "time": 9
+  },
+  {
+    "title": "\u2018Monumental\u2019 Math Proof Solves Triple Bubble Problem and More (quantamagazine.org)",
+    "votes": 78,
+    "username": "nsoonhui",
+    "time": 18
+  },
+  {
+    "title": "Data Structures Sketches (okso.app)",
+    "votes": 250,
+    "username": "kevinslin",
+    "time": 18
+  },
+  {
+    "title": "Knock: Convert ACSM files to PDF/EPUBs with one command on Linux (github.com/bentonedmondson)",
+    "votes": 29,
+    "username": "d4a",
+    "time": 11
+  },
+  {
+    "title": "Decompiling x86 Deep Neural Network Executables (github.com/monkbai)",
+    "votes": 53,
+    "username": "matt_d",
+    "time": 17
+  },
+  {
+    "title": "Mac Accepted Any Root Cert, Making Code Signing Useless (worthdoingbadly.com)",
+    "votes": 38,
+    "username": "anonymouse008",
+    "time": 15
+  },
+  {
+    "title": "Stripe is PayPal circa 2010 (learnjsthehardway.com)",
+    "votes": 450,
+    "username": "qualudeheart",
+    "time": 1
+  },
+  {
+    "title": "Building an FM radio from $3 radio chip and an 84MHz ARM Arduino (hackaday.io)",
+    "votes": 58,
+    "username": "9wzYQbTYsAIc",
+    "time": 19
+  },
+  {
+    "title": "Zig-style generics are not well-suited for most languages (typesanitizer.com)",
+    "votes": 156,
+    "username": "Ar-Curunir",
+    "time": 19
+  },
+  {
+    "title": "CS631 \u2013 Advanced Programming in the Unix Environment (netmeister.org)",
+    "votes": 263,
+    "username": "AlexeyBrin",
+    "time": 22
+  },
+  {
+    "title": "MythBusters Helped a Wrongly Convicted Man Prove His Innocence (innocenceproject.org)",
+    "votes": 177,
+    "username": "gbourne",
+    "time": 17
+  },
+  {
+    "title": "Learn Exponentially (saveall.ai)",
+    "votes": 226,
+    "username": "p-christ",
+    "time": 22
+  },
+  {
+    "title": "TreeMaker \u2013 program for the design of origami bases (2015) (langorigami.com)",
+    "votes": 42,
+    "username": "pabs3",
+    "time": 18
+  },
+  {
+    "title": "Walking to school is more likely to keep kids active as they age (weforum.org)",
+    "votes": 9,
+    "username": "Brajeshwar",
+    "time": 3
+  },
+  {
+    "title": "DIY out-of-band management: remote power button (stapelberg.ch)",
+    "votes": 154,
+    "username": "secure",
+    "time": 21
+  },
+  {
+    "title": "Top science fiction short stories published in August (compellingsciencefiction.com)",
+    "votes": 169,
+    "username": "mojoe",
+    "time": 21
+  },
+  {
+    "title": "For Best Results, Forget the Bonus (alfiekohn.org)",
+    "votes": 95,
+    "username": "damir",
+    "time": 19
+  },
+  {
+    "title": "Ask HN: Help me summon the strength to finish my project",
+    "votes": 9,
+    "username": "andrewstuart",
+    "time": 1
+  },
+  {
+    "title": "The Forgotten Operating System That Keeps the NYC Subway System Alive (2019) (vice.com)",
+    "votes": 155,
+    "username": "lproven",
+    "time": 22
+  },
+  {
+    "title": "MetaWriter Software Vending Machine, 1983 (vintag.es)",
+    "votes": 23,
+    "username": "SongofEarth",
+    "time": 14
+  },
+  {
+    "title": "Leftover Star Wars Sets (atlasobscura.com)",
+    "votes": 27,
+    "username": "samclemens",
+    "time": 20
+  },
+  {
+    "title": "Leap: Neovim\u2019s Answer to the Mouse (github.com/ggandor)",
+    "votes": 588,
+    "username": "bpierre",
+    "time": 1
+  },
+  {
+    "title": "This hash table uses less space than the items it stores (algorithmsoup.wordpress.com)",
+    "votes": 29,
+    "username": "williamkuszmaul",
+    "time": 19
+  },
+  {
+    "title": "Day.js \u2013 Fast 2kB alternative to Moment.js with the same modern API (day.js.org)",
+    "votes": 263,
+    "username": "excerionsforte",
+    "time": 1
+  },
+  {
+    "title": "Show HN: Simplepdf.eu \u2013 a browser-based PDF annotator / editor (simplepdf.eu)",
+    "votes": 36,
+    "username": "nip",
+    "time": 18
+  },
+  {
+    "title": "What\u2019s behind chinook and chum salmon declines in Alaska? (noaa.gov)",
+    "votes": 45,
+    "username": "rntn",
+    "time": 13
+  },
+  {
+    "title": "Call for Participation to Chaos Computer Club\u2019s 37C3 (ccc.de)",
+    "votes": 188,
+    "username": "hacka22",
+    "time": 1
+  },
+  {
+    "title": "Learning Regular Sets from Queries and Counterexamples (1987) [pdf] (eecs.berkeley.edu)",
+    "votes": 3,
+    "username": "lnyan",
+    "time": 6
+  },
+  {
+    "title": "Know Your Carrying Capacity (macchaffee.com)",
+    "votes": 120,
+    "username": "todsacerdoti",
+    "time": 23
+  },
+  {
+    "title": "World\u2019s largest crypto exchange hacked with possible losses of $500M (theguardian.com)",
+    "votes": 19,
+    "username": "nigerian1981",
+    "time": 5
+  },
+  {
+    "title": "I Listened to 1000 B2B SaaS Sales Calls (sofuckingagile.com)",
+    "votes": 475,
+    "username": "asyncscrum",
+    "time": 1
+  },
+  {
+    "title": "Starting a Business Around GPT-3 Is a Bad Idea (2020) (allencheng.com)",
+    "votes": 103,
+    "username": "swyx",
+    "time": 23
+  },
+  {
+    "title": "Going where BeOS NetPositive hasn't gone before: NetPositive+ (oldvcr.blogspot.com)",
+    "votes": 152,
+    "username": "todsacerdoti",
+    "time": 1
+  },
+  {
+    "title": "The Anglo-Saxon migration and the formation of the early English gene pool (nature.com)",
+    "votes": 11,
+    "username": "robin_reala",
+    "time": 15
+  },
+  {
+    "title": "Slowly waking up to the truth: Brexit has left us poorer, adrift and alone (theguardian.com)",
+    "votes": 12,
+    "username": "jjar",
+    "time": 1
+  },
+  {
+    "title": "Dutch employee fired by U.S. firm for shutting off webcam awarded \u20ac75K in court (nltimes.nl)",
+    "votes": 543,
+    "username": "stoeckley",
+    "time": 1
+  },
+  {
+    "title": "Tribesmen \u2018sentenced to death\u2019 for resisting futuristic Saudi megacity (smh.com.au)",
+    "votes": 33,
+    "username": "gelatocar",
+    "time": 10
+  },
+  {
+    "title": "Kuser_shared_data (Windows Data Structure) (geoffchappell.com)",
+    "votes": 13,
+    "username": "userbinator",
+    "time": 11
+  },
+  {
+    "title": "The iPhone 14 keeps calling 911 on rollercoasters (theverge.com)",
+    "votes": 79,
+    "username": "Tomte",
+    "time": 17
+  },
+  {
+    "title": "Modeling Starlink Capacity (mikepuchol.com)",
+    "votes": 223,
+    "username": "walterbell",
+    "time": 1
+  },
+  {
+    "title": "Cassandra at Apple: 1000s of Clusters, 300k Nodes, 100 PB (twitter.com/erickramirezau)",
+    "votes": 286,
+    "username": "mfiguiere",
+    "time": 1
+  },
+  {
+    "title": "Stop using utcnow and utcfromtimestamp (ganssle.io)",
+    "votes": 138,
+    "username": "tomerbd",
+    "time": 1
+  },
+  {
+    "title": "Reverse Engineering a Cat Feeder to Boost Productivity (sensibledefaults.io)",
+    "votes": 138,
+    "username": "bubblehack3r",
+    "time": 1
+  },
+  {
+    "title": "George Hotz: Self-Driving Cars Are a Scam (cleantechnica.com)",
+    "votes": 53,
+    "username": "reteltech",
+    "time": 12
+  },
+  {
+    "title": "Reality is just a game now (thenewatlantis.com)",
+    "votes": 299,
+    "username": "1sembiyan",
+    "time": 3
+  },
+  {
+    "title": "JSON Crack \u2013 A tool that generates graph diagrams from JSON objects (github.com/aykutsarac)",
+    "votes": 218,
+    "username": "gjvc",
+    "time": 1
+  },
+  {
+    "title": "Lufthansa has not banned AirTags (liveandletsfly.com)",
+    "votes": 231,
+    "username": "bookofjoe",
+    "time": 1
+  },
+  {
+    "title": "Auto Safety Tech Adds New IC Design Challenges (semiengineering.com)",
+    "votes": 21,
+    "username": "PaulHoule",
+    "time": 1
+  },
+  {
+    "title": "\u2018War crime:\u2019 Industrial-scale destruction of Ukraine culture (apnews.com)",
+    "votes": 8,
+    "username": "app4soft",
+    "time": 1
+  },
+  {
+    "title": "The Instagram capital of the world is a terrible place to be (vox.com)",
+    "votes": 44,
+    "username": "imartin2k",
+    "time": 1
+  },
+  {
+    "title": "Simplified Piet interpreter written in Python (stackexchange.com)",
+    "votes": 32,
+    "username": "memorable",
+    "time": 1
+  },
+  {
+    "title": "I wrote a short story about von Neumann probes (charlieharrington.com)",
+    "votes": 105,
+    "username": "whatrocks",
+    "time": 1
+  },
+  {
+    "title": "Technical milestone reached: global earth system simulations with 1.2 km resoln (mpg.de)",
+    "votes": 158,
+    "username": "jokabrink",
+    "time": 1
+  },
+  {
+    "title": "Transwarp v0.84 \u2013 50x fastload system on plain vanilla stock 1541 (use with C64) (csdb.dk)",
+    "votes": 46,
+    "username": "sandebert",
+    "time": 22
+  },
+  {
+    "title": "Magic Leap 2 (magicleap.com)",
+    "votes": 149,
+    "username": "ppjim",
+    "time": 1
+  },
+  {
+    "title": "Take a break (robinrendle.com)",
+    "votes": 403,
+    "username": "imartin2k",
+    "time": 1
+  },
+  {
+    "title": "Truecaller launches new AI-powered voice assistant (truecaller.com)",
+    "votes": 22,
+    "username": "FrenchGonzales",
+    "time": 1
+  },
+  {
+    "title": "Algebraic Geometry for Computer Graphics (washington.edu)",
+    "votes": 213,
+    "username": "bmer",
+    "time": 1
+  },
+  {
+    "title": "What can we learn from leaked Insyde's BIOS for Intel Alder Lake (hardenedvault.net)",
+    "votes": 186,
+    "username": "hardenedvault",
+    "time": 1
+  },
+  {
+    "title": "The Higgs Boson at 5 Sigmas (2012) (maximum-entropy-blog.blogspot.com)",
+    "votes": 23,
+    "username": "harporoeder",
+    "time": 1
+  },
+  {
+    "title": "Mastodon.technology Shutdown (ashfurrow.com)",
+    "votes": 620,
+    "username": "freosam",
+    "time": 2
+  },
+  {
+    "title": "DALL\u00b7E 2 vs. $10 Fiverr Commissions (simonberens.me)",
+    "votes": 297,
+    "username": "sberens",
+    "time": 1
+  },
+  {
+    "title": "DNS based ad/abuse domain blocking (github.com/openwrt)",
+    "votes": 33,
+    "username": "behnamoh",
+    "time": 1
+  },
+  {
+    "title": "Garden of forking paths: Why multiple comparisons can be a problem (2013) [pdf] (columbia.edu)",
+    "votes": 38,
+    "username": "luu",
+    "time": 1
+  },
+  {
+    "title": "Ask HN: Is there a way for github.com to send me to my repos instead of my dash?",
+    "votes": 10,
+    "username": "aliqot",
+    "time": 10
+  },
+  {
+    "title": "Elon Musk: \u2018Aren\u2019t You Entertained?\u2019 (ft.com)",
+    "votes": 14,
+    "username": "jelliclesfarm",
+    "time": 8
+  },
+  {
+    "title": "Brave browser to start blocking annoying cookie consent banners (bleepingcomputer.com)",
+    "votes": 388,
+    "username": "redbell",
+    "time": 1
+  },
+  {
+    "title": "Illuminating Hyperbolic Geometry (2015) [video] (youtube.com)",
+    "votes": 54,
+    "username": "tartoran",
+    "time": 1
+  },
+  {
+    "title": "Web Apps better than Electron Apps Because uBlock (medium.com/aplaceofmind)",
+    "votes": 32,
+    "username": "behnamoh",
+    "time": 14
+  },
+  {
+    "title": "School vs. Wikipedia (ratfactor.com)",
+    "votes": 434,
+    "username": "ingve",
+    "time": 2
+  },
+  {
+    "title": "\u201cMother Will Be Pleased\u201d: How It Feels to Be Run over (1900) (publicdomainreview.org)",
+    "votes": 45,
+    "username": "samclemens",
+    "time": 1
+  },
+  {
+    "title": "New research suggests eating early and within a 10-hour window is healthier (medicalxpress.com)",
+    "votes": 64,
+    "username": "Brajeshwar",
+    "time": 21
+  },
+  {
+    "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit (microsoft.com)",
+    "votes": 37,
+    "username": "Anon84",
+    "time": 16
+  },
+  {
+    "title": "How California\u2019s Bullet Train Went Off the Rails (nytimes.com)",
+    "votes": 41,
+    "username": "icyfox",
+    "time": 15
+  },
+  {
+    "title": "Best Dumb TVs (makeuseof.com)",
+    "votes": 59,
+    "username": "code-faster",
+    "time": 21
+  },
+  {
+    "title": "Protests in Iran: State-run live TV hacked by protesters (bbc.co.uk)",
+    "votes": 236,
+    "username": "lifeisstillgood",
+    "time": 23
+  },
+  {
+    "title": "Show HN: If Spotify and Tinder Had a Baby (trackafind.com)",
+    "votes": 23,
+    "username": "samyndriss",
+    "time": 1
+  },
+  {
+    "title": "Inferring and perturbing cell fate regulomes in human brain organoids (nature.com)",
+    "votes": 20,
+    "username": "rntn",
+    "time": 1
+  },
+  {
+    "title": "Show HN: Meta Tags Generator (websitemetadata.com)",
+    "votes": 3,
+    "username": "capela",
+    "time": 12
+  },
+  {
+    "title": "My Favourite Computer, an Old Mac (muezza.ca)",
+    "votes": 385,
+    "username": "cpsns",
+    "time": 2
+  },
+  {
+    "title": "Doom Running in Notepad at 60fps (youtube.com)",
+    "votes": 17,
+    "username": "kposehn",
+    "time": 12
+  },
+  {
+    "title": "From Vue to Alpine.js: Our Journey (tim-kleyersburg.de)",
+    "votes": 12,
+    "username": "vmoore",
+    "time": 20
+  },
+  {
+    "title": "SimulaVR Has Been Subpoenaed by Meta Platforms, Inc (simulavr.com)",
+    "votes": 750,
+    "username": "phiresky",
+    "time": 3
+  },
+  {
+    "title": "Strokes heart attacks and sudden deaths (fortune.com)",
+    "votes": 28,
+    "username": "wellthatsawrap1",
+    "time": 14
+  },
+  {
+    "title": "Man Uses 99 Phones and a Handcart to Create \u201cVirtual Traffic Jam\u201d on Google Maps (interestingengineering.com)",
+    "votes": 59,
+    "username": "rbanffy",
+    "time": 22
+  },
+  {
+    "title": "An Australian startup is \u201cgrowing\u201d water for drought-parched California (cbsnews.com)",
+    "votes": 5,
+    "username": "prostoalex",
+    "time": 13
+  },
+  {
+    "title": "Alaska\u2019s Salmon Are in Chaos (hcn.org)",
+    "votes": 5,
+    "username": "rntn",
+    "time": 13
+  },
+  {
+    "title": "Eierlegende Wollmilchsau (2011) (germanyinusa.com)",
+    "votes": 68,
+    "username": "Tomte",
+    "time": 1
+  },
+  {
+    "title": "How Ray Tracing works and how to do it faster [video] (youtube.com)",
+    "votes": 161,
+    "username": "nikolay",
+    "time": 1
+  },
+  {
+    "title": "Building Basilisk II for iOS (2021) (gingerbeardman.com)",
+    "votes": 100,
+    "username": "alden5",
+    "time": 1
+  },
+  {
+    "title": "An OCaml and Type Theory Course: Program = Proof (polytechnique.fr)",
+    "votes": 7,
+    "username": "bmer",
+    "time": 16
+  },
+  {
+    "title": "Patients can now access all their health records digitally (statnews.com)",
+    "votes": 268,
+    "username": "andsoitis",
+    "time": 2
+  },
+  {
+    "title": "A Drum Machine with Congenital Heart Disease (heartbeatdrummachine.com)",
+    "votes": 25,
+    "username": "giuliomagnifico",
+    "time": 22
+  },
+  {
+    "title": "AMD Ryzen 7000 Series performs better with Spectre V2 Mitigations enabled (phoronix.com)",
+    "votes": 254,
+    "username": "ad8e",
+    "time": 2
+  },
+  {
+    "title": "Substantial ATT Fiber Issues in SF Bay Area?",
+    "votes": 13,
+    "username": "rconti",
+    "time": 16
+  },
+  {
+    "title": "Mortal Kombat+ (mortalkombat.plus)",
+    "votes": 358,
+    "username": "wsc981",
+    "time": 2
+  },
+  {
+    "title": "Show HN: Reflame \u2013 Deploy your React web apps in milliseconds (reflame.app)",
+    "votes": 143,
+    "username": "lewisl9029",
+    "time": 1
+  },
+  {
+    "title": "Good and Bad Procrastination (2005) (paulgraham.com)",
+    "votes": 90,
+    "username": "mmphosis",
+    "time": 1
+  },
+  {
+    "title": "Valve's latest Steam Deck trailer briefly plugs a Nintendo Switch emulator (gamedeveloper.com)",
+    "votes": 183,
+    "username": "angry_cactus",
+    "time": 1
+  },
+  {
+    "title": "Why New York Subway Lines Are Missing Countdown Clocks (2015) (theatlantic.com)",
+    "votes": 8,
+    "username": "pcr910303",
+    "time": 6
+  },
+  {
+    "title": "Mercenaries Were More Common in Greek Warfare Than Ancient Historians Let On (smithsonianmag.com)",
+    "votes": 104,
+    "username": "diodorus",
+    "time": 1
+  },
+  {
+    "title": "Retro Gadgets: A game about soldering and tinkering with old school electronics (pcgamer.com)",
+    "votes": 48,
+    "username": "detaro",
+    "time": 1
+  },
+  {
+    "title": "The Thorny Problem of Keeping the Internet's Time (newyorker.com)",
+    "votes": 146,
+    "username": "mitchbob",
+    "time": 1
+  },
+  {
+    "title": "Teaching Paradox, Crusader Kings III, Part III: Constructivisting a Kingdom (acoup.blog)",
+    "votes": 94,
+    "username": "Tomte",
+    "time": 1
+  },
+  {
+    "title": "Rethinking the Computer Chip in the Age of AI (upenn.edu)",
+    "votes": 67,
+    "username": "sizzle",
+    "time": 1
+  },
+  {
+    "title": "Tailor-made AI image generation (strmr.com)",
+    "votes": 28,
+    "username": "ViktorasJucikas",
+    "time": 1
+  },
+  {
+    "title": "WebAssembly Is Not A Stack Machine (troubles.md)",
+    "votes": 171,
+    "username": "optimalsolver",
+    "time": 2
+  },
+  {
+    "title": "MIT engineers build a battery-free, wireless underwater camera (news.mit.edu)",
+    "votes": 87,
+    "username": "kungfudoi",
+    "time": 1
+  },
+  {
+    "title": "Why Dates and Times Seem to Lose Their Meaning (wsj.com)",
+    "votes": 31,
+    "username": "harambae",
+    "time": 1
+  },
+  {
+    "title": "Do fungi lurking inside cancers speed their growth? (nature.com)",
+    "votes": 104,
+    "username": "LinuxBender",
+    "time": 1
+  },
+  {
+    "title": "Evrard D'Espinque\u2019s Illuminations of De Proprietatibus Rerum (Ca. 1480) (publicdomainreview.org)",
+    "votes": 15,
+    "username": "drdee",
+    "time": 1
+  },
+  {
+    "title": "Ask HN: Is Substack the new Medium?",
+    "votes": 179,
+    "username": "chatterhead",
+    "time": 1
+  },
+  {
+    "title": "Hacking Your Dishwasher (trmm.net)",
+    "votes": 40,
+    "username": "georgyo",
+    "time": 1
+  },
+  {
+    "title": "Scotland \u2018snow-free\u2019 for fourth time in six years (bbc.com)",
+    "votes": 165,
+    "username": "mooreds",
+    "time": 1
+  },
+  {
+    "title": "QNX DEMO disk (1999) (puslapiai.lt)",
+    "votes": 226,
+    "username": "lproven",
+    "time": 2
+  },
+  {
+    "title": "ProtonVPN IP Leakage on Linux and Workaround (privsec.dev)",
+    "votes": 20,
+    "username": "todsacerdoti",
+    "time": 1
+  },
+  {
+    "title": "SDN in the Stratosphere: Loon\u2019s Aerospace Mesh Network (micahlerner.com)",
+    "votes": 7,
+    "username": "mlerner",
+    "time": 18
+  },
+  {
+    "title": "ThinkPad\u2019s 30th Anniversary: An Insider\u2019s Perspective (forbes.com/sites/timbajarin)",
+    "votes": 132,
+    "username": "ingve",
+    "time": 2
+  },
+  {
+    "title": "Why do techie's use .io instead of .NET for domains?",
+    "votes": 15,
+    "username": "tiffanyh",
+    "time": 17
+  },
+  {
+    "title": "A Few of My Favorite Things About the OpenBSD Packet Filter Tools (bsdly.blogspot.com)",
+    "votes": 78,
+    "username": "somat",
+    "time": 1
+  },
+  {
+    "title": "Imagen Video: high definition video generation with diffusion models (research.google)",
+    "votes": 794,
+    "username": "jasondavies",
+    "time": 4
+  },
+  {
+    "title": "AWS doesn't make sense for scientific computing (noahlebovic.com)",
+    "votes": 291,
+    "username": "lebovic",
+    "time": 2
+  },
+  {
+    "title": "Penetration testing wireless keyboards (diva-portal.org)",
+    "votes": 142,
+    "username": "Breadmaker",
+    "time": 1
+  },
+  {
+    "title": "Starlight (Interstellar Probe) (wikipedia.org)",
+    "votes": 4,
+    "username": "Hooke",
+    "time": 15
+  },
+  {
+    "title": "Show HN: Garnix, fast and easy CI for Nix",
+    "votes": 120,
+    "username": "jkarni",
+    "time": 2
+  },
+  {
+    "title": "TypeScript is now officially 10 years old (coderoasis.com)",
+    "votes": 193,
+    "username": "bubblehack3r",
+    "time": 1
+  },
+  {
+    "title": "Too Many Satellites: Astronomers Voice Concern over Second-Gen Starlink (pcmag.com)",
+    "votes": 7,
+    "username": "davidbarker",
+    "time": 9
+  },
+  {
+    "title": "Ask HN: Bored working for the current company, advice?",
+    "votes": 50,
+    "username": "waskip",
+    "time": 1
+  },
+  {
+    "title": "Longevity of Recordable CDs, DVDs and Blu-Rays (2020) (canada.ca)",
+    "votes": 294,
+    "username": "parasti",
+    "time": 3
+  },
+  {
+    "title": "Chrome\u2019s new ad-blocker-limiting extension platform will launch in 2023 (arstechnica.com)",
+    "votes": 30,
+    "username": "type0",
+    "time": 19
+  },
+  {
+    "title": "How to download all of Wikipedia onto a USB flash drive (planetofthepaul.com)",
+    "votes": 442,
+    "username": "bubblehack3r",
+    "time": 3
+  },
+  {
+    "title": "Calif. Law to Protect Children's Privacy Could Lead to Invasive Age Verification (reason.com)",
+    "votes": 143,
+    "username": "pseudolus",
+    "time": 1
+  },
+  {
+    "title": "Atanasoff\u2013Berry Computer (wikipedia.org)",
+    "votes": 38,
+    "username": "Frummy",
+    "time": 2
+  },
+  {
+    "title": "The Bulletproof Glass Effect: Unintended Consequences of Privacy Notices (sagepub.com)",
+    "votes": 25,
+    "username": "behnamoh",
+    "time": 1
+  },
+  {
+    "title": "A Universal Cancer Treatment? (nautil.us)",
+    "votes": 379,
+    "username": "WithinReason",
+    "time": 3
+  },
+  {
+    "title": "4x4 ASCII Font (2016) (simplifier.neocities.org)",
+    "votes": 181,
+    "username": "thunderbong",
+    "time": 2
+  },
+  {
+    "title": "Show HN: Inline SQL in any Python program (github.com/ekzhang)",
+    "votes": 24,
+    "username": "ekzhang",
+    "time": 1
+  },
+  {
+    "title": "What does the ??!??! operator do in C? (stackoverflow.com)",
+    "votes": 632,
+    "username": "isomorph",
+    "time": 4
+  },
+  {
+    "title": "The Dactyl Keyboard (github.com/adereth)",
+    "votes": 22,
+    "username": "animal_spirits",
+    "time": 1
+  },
+  {
+    "title": "Overzealous Destructuring (aleksandrhovhannisyan.com)",
+    "votes": 80,
+    "username": "bentobean",
+    "time": 2
+  },
+  {
+    "title": "On AlphaTensor\u2019s new matrix multiplication algorithms (fgiesen.wordpress.com)",
+    "votes": 276,
+    "username": "matt_d",
+    "time": 3
+  },
+  {
+    "title": "The struggles of building a feed reader (jackevansevo.github.io)",
+    "votes": 125,
+    "username": "Jackevansevo",
+    "time": 2
+  },
+  {
+    "title": "The GIF Is on Its Deathbed (theatlantic.com)",
+    "votes": 4,
+    "username": "marban",
+    "time": 8
+  },
+  {
+    "title": "Why Disconnecting from Your Phone Is So Good for You \u2013 and How to Do It (time.com)",
+    "votes": 84,
+    "username": "ppjim",
+    "time": 1
+  },
+  {
+    "title": "Cloudflare cheats at DNSSEC validation even for their unfiltered DNS service (catcatnya.com)",
+    "votes": 25,
+    "username": "davidgerard",
+    "time": 16
+  },
+  {
+    "title": "Linus Torvalds\u2019s faulty RAM slows kernel development (theregister.com)",
+    "votes": 8,
+    "username": "redbell",
+    "time": 3
+  },
+  {
+    "title": "The Alternative Genesis Block of Bitcoin (serhack.me)",
+    "votes": 126,
+    "username": "crecker",
+    "time": 2
+  },
+  {
+    "title": "Apple\u2019s use of Swift and SwiftUI in iOS 16 (timac.org)",
+    "votes": 56,
+    "username": "WoodenChair",
+    "time": 2
+  },
+  {
+    "title": "Why your best ideas come while showering (virginia.edu)",
+    "votes": 7,
+    "username": "geox",
+    "time": 21
+  },
+  {
+    "title": "Questioning vs. Asking (candost.blog)",
+    "votes": 63,
+    "username": "mooreds",
+    "time": 2
+  },
+  {
+    "title": "New system retrofits diesel engines to run on 90% hydrogen (techxplore.com)",
+    "votes": 39,
+    "username": "bubblehack3r",
+    "time": 1
+  },
+  {
+    "title": "Intel Confirms Alder Lake BIOS Source Code Leak, New Details Emerge (tomshardware.com)",
+    "votes": 5,
+    "username": "gbourne",
+    "time": 9
+  },
+  {
+    "title": "Knuth's Art of Computer Programming, V 4B, has gone into print (stanford.edu)",
+    "votes": 934,
+    "username": "inetsee",
+    "time": 5
+  },
+  {
+    "title": "Thiel Is Too Optimistic About Scientific Achievement Since the 70s (scholars-stage.org)",
+    "votes": 13,
+    "username": "barry-cotter",
+    "time": 1
+  },
+  {
+    "title": "Rendering Doom with Emojis (crocidb.com)",
+    "votes": 34,
+    "username": "boyter",
+    "time": 2
+  },
+  {
+    "title": "Kim Jung Gi has died (latimes.com)",
+    "votes": 477,
+    "username": "stoeckley",
+    "time": 4
+  },
+  {
+    "title": "Japanese Knotweed: The alien shrub that can't be stopped (bbc.com)",
+    "votes": 52,
+    "username": "ComputerGuru",
+    "time": 2
+  },
+  {
+    "title": "Show HN: I developed an app that creates interactive product demos in minutes (supademo.com)",
+    "votes": 71,
+    "username": "koushikmarka90",
+    "time": 1
+  },
+  {
+    "title": "Gcloud storage: Faster data transfers for Cloud Storage (cloud.google.com)",
+    "votes": 165,
+    "username": "ingve",
+    "time": 2
+  },
+  {
+    "title": "The Amiga Story: Conceived at Atari, Born at Commodore (2016) (lowendmac.com)",
+    "votes": 65,
+    "username": "wslh",
+    "time": 1
+  },
+  {
+    "title": "Signal is secure, as proven by hackers (kaspersky.co.uk)",
+    "votes": 196,
+    "username": "cjg",
+    "time": 2
+  },
+  {
+    "title": "When School Superintendents Market Surveillance Cameras (vice.com)",
+    "votes": 7,
+    "username": "paulpauper",
+    "time": 9
+  },
+  {
+    "title": "Staff Engineer Archetypes (2020) (lethain.com)",
+    "votes": 360,
+    "username": "arkj",
+    "time": 3
+  },
+  {
+    "title": "Science has been unhooked by market forces and replaced by cargo cult [video] (youtube.com)",
+    "votes": 12,
+    "username": "LinuxBender",
+    "time": 15
+  },
+  {
+    "title": "Multiple explosions in Ukraine capital Kyiv (bbc.co.uk)",
+    "votes": 15,
+    "username": "rntn",
+    "time": 5
+  },
+  {
+    "title": "Five Centuries of Copying, Illustrating and Reading Amir Khusraw\u2019s Poetry (blogs.bl.uk)",
+    "votes": 3,
+    "username": "Thevet",
+    "time": 19
+  },
+  {
+    "title": "The AI Scaling Hypothesis (lastweekin.ai)",
+    "votes": 146,
+    "username": "andreyk",
+    "time": 2
+  },
+  {
+    "title": "How to disable Google One Tap sign-up prompts? (superuser.com)",
+    "votes": 18,
+    "username": "searchableguy",
+    "time": 18
+  },
+  {
+    "title": "A Ruby program that generates itself through a 128-language quine loop (github.com/mame)",
+    "votes": 347,
+    "username": "sirnicolaz",
+    "time": 4
+  },
+  {
+    "title": "How fateful? (chan.co.za)",
+    "votes": 1102,
+    "username": "parabyl",
+    "time": 6
+  },
+  {
+    "title": "Large language models can self-improve (openreview.net)",
+    "votes": 12,
+    "username": "anigbrowl",
+    "time": 1
+  },
+  {
+    "title": "A working implementation of text-to-3D DreamFusion, powered by Stable Diffusion (github.com/ashawkey)",
+    "votes": 284,
+    "username": "nopinsight",
+    "time": 3
+  },
+  {
+    "title": "L\u00e1nczos Interpolation Explained (mazzo.li)",
+    "votes": 64,
+    "username": "rostayob",
+    "time": 3
+  },
+  {
+    "title": "Social Media Is Probably Doomed (vortex.com)",
+    "votes": 4,
+    "username": "greenyoda",
+    "time": 8
+  },
+  {
+    "title": "How California\u2019s Bullet Train Went Off the Rails (nytimes.com)",
+    "votes": 40,
+    "username": "phillypham",
+    "time": 1
+  },
+  {
+    "title": "How to Choose a Mean Well Power Supply: LED Driver and Power Supply Guide (2019) (ledsupply.com)",
+    "votes": 13,
+    "username": "stacktrust",
+    "time": 1
+  },
+  {
+    "title": "Are hospitals overtreating patients nearing the end? (thewalrus.ca)",
+    "votes": 139,
+    "username": "pseudolus",
+    "time": 1
+  },
+  {
+    "title": "Ask HN: What's Your Biggest Regret?",
+    "votes": 247,
+    "username": "xupybd",
+    "time": 3
+  },
+  {
+    "title": "A UV Lamp That\u2019s Bad for Covid but Not for You (knowablemagazine.org)",
+    "votes": 7,
+    "username": "fortran77",
+    "time": 13
+  },
+  {
+    "title": "Poll: How Ambidextrous Are You?",
+    "votes": 17,
+    "username": "graderjs",
+    "time": 1
+  },
+  {
+    "title": "Current interop status of various QUIC client and server implementations (seemann.io)",
+    "votes": 55,
+    "username": "LinuxBender",
+    "time": 1
+  },
+  {
+    "title": "Show HN: Lambda-8cc \u2013 An x86 C compiler written in untyped lambda calculus (github.com/woodrush)",
+    "votes": 247,
+    "username": "woodrush",
+    "time": 3
+  },
+  {
+    "title": "Discovering faster matrix multiplication algorithms with reinforcement learning (nature.com)",
+    "votes": 510,
+    "username": "shantanu_sharma",
+    "time": 4
+  },
+  {
+    "title": "Egypt to Supply Power to Europe Through Greece (energytrend.com)",
+    "votes": 5,
+    "username": "geox",
+    "time": 10
+  },
+  {
+    "title": "Why Is the Most American Fruit So Hard to Buy? (theatlantic.com)",
+    "votes": 27,
+    "username": "zeristor",
+    "time": 1
+  },
+  {
+    "title": "Why Is The Guitar Tuned Like It Is? (kiwix.org)",
+    "votes": 145,
+    "username": "belter",
+    "time": 3
+  },
+  {
+    "title": "IBM Power10\u2019s Memory Inception Clustering (2021) (nextplatform.com)",
+    "votes": 41,
+    "username": "tony-allan",
+    "time": 3
+  },
+  {
+    "title": "The making of my second solo indie game (novalis.org)",
+    "votes": 51,
+    "username": "luu",
+    "time": 1
+  },
+  {
+    "title": "America\u2019s lost crops rewrite the history of farming (theatlantic.com)",
+    "votes": 46,
+    "username": "benbreen",
+    "time": 1
+  },
+  {
+    "title": "A Discussion on Printk() (lwn.net)",
+    "votes": 54,
+    "username": "signa11",
+    "time": 1
+  },
+  {
+    "title": "Ask HN: Best way to learn C++ in 2022",
+    "votes": 9,
+    "username": "mr_o47",
+    "time": 20
+  },
+  {
+    "title": "Gmail 2FA causes the homeless to permanently lose access 3 times a year (twitter.com/chadloder)",
+    "votes": 870,
+    "username": "horseAMcharlie",
+    "time": 2
+  },
+  {
+    "title": "Computer Saturation and the Productivity Slowdown (newyorkfed.org)",
+    "votes": 102,
+    "username": "Bostonian",
+    "time": 2
+  },
+  {
+    "title": "False memory implantation in adults is easy (brainpizza.substack.com)",
+    "votes": 294,
+    "username": "thatmarkdykeman",
+    "time": 3
+  },
+  {
+    "title": "Paris Cuts the Lights to Save Energy. Will It Help? (wsj.com)",
+    "votes": 4,
+    "username": "mfiguiere",
+    "time": 10
+  },
+  {
+    "title": "TV backlight compensation (2020) (lofibucket.com)",
+    "votes": 341,
+    "username": "pcr910303",
+    "time": 4
+  },
+  {
+    "title": "How to tell a mainframe from a minicomputer from a micro (liam-on-linux.dreamwidth.org)",
+    "votes": 61,
+    "username": "todsacerdoti",
+    "time": 2
+  },
+  {
+    "title": "Pimp My BBC Micro (github.com/dekunukem)",
+    "votes": 315,
+    "username": "dekuNukem",
+    "time": 4
+  },
+  {
+    "title": "WebVM: WASM virtual machine in browser with networking via Tailscale (leaningtech.com)",
+    "votes": 222,
+    "username": "xrd",
+    "time": 3
+  },
+  {
+    "title": "Nuclear Close Calls: Able Archer 83 (2018) (atomicheritage.org)",
+    "votes": 110,
+    "username": "omnibrain",
+    "time": 2
+  },
+  {
+    "title": "Is the FSF Fighting the Previous War? (irreal.org)",
+    "votes": 114,
+    "username": "smitty1e",
+    "time": 2
+  },
+  {
+    "title": "Ask HN: Getting tired of complexity in web development",
+    "votes": 252,
+    "username": "jelan",
+    "time": 1
+  },
+  {
+    "title": "Vectors are over, hashes are the future (algolia.com)",
+    "votes": 171,
+    "username": "jsilvers",
+    "time": 2
+  },
+  {
+    "title": "Arca Noae brings OS/2 into the 21st Century (arcanoae.com)",
+    "votes": 52,
+    "username": "detaro",
+    "time": 3
+  },
+  {
+    "title": "On ADHD (decemberhunting.dev)",
+    "votes": 5,
+    "username": "tippysdemise",
+    "time": 21
+  },
+  {
+    "title": "Jewish Calendar Demystified (2007) (stevemorse.org)",
+    "votes": 135,
+    "username": "nvr219",
+    "time": 2
+  },
+  {
+    "title": "How Open Source is eating AI (swyx.io)",
+    "votes": 13,
+    "username": "swyx",
+    "time": 16
+  },
+  {
+    "title": "Fingerprinting systems with TCP source-port selection (lwn.net)",
+    "votes": 48,
+    "username": "usr1106",
+    "time": 3
+  },
+  {
+    "title": "How to distort Scrum until it no longer works (lucasfcosta.com)",
+    "votes": 141,
+    "username": "tapanjk",
+    "time": 2
+  },
+  {
+    "title": "C Programming on System 6 (jcs.org)",
+    "votes": 55,
+    "username": "behnamoh",
+    "time": 2
+  },
+  {
+    "title": "Chicago scientists are testing an unhackable quantum internet in their basement (washingtonpost.com)",
+    "votes": 4,
+    "username": "rlalwani",
+    "time": 9
+  },
+  {
+    "title": "Ask HN: Best book to learn C in 2022?",
+    "votes": 274,
+    "username": "CodeSgt",
+    "time": 2
+  },
+  {
+    "title": "Hacking Reolink cameras for fun and profit (2020) (thirtythreeforty.net)",
+    "votes": 192,
+    "username": "walterbell",
+    "time": 3
+  },
+  {
+    "title": "Ask HN: Getting into Open Source?",
+    "votes": 5,
+    "username": "whitepirate20",
+    "time": 12
+  },
+  {
+    "title": "IBM swallows Red Hat storage products (blocksandfiles.com)",
+    "votes": 173,
+    "username": "ingve",
+    "time": 3
+  },
+  {
+    "title": "Transmission 4.0.0 beta 1 (github.com/transmission)",
+    "votes": 522,
+    "username": "Torlan",
+    "time": 3
+  },
+  {
+    "title": "Facebook Is Warning 1M Users About Stolen Usernames, Passwords (bloomberg.com)",
+    "votes": 17,
+    "username": "fortran77",
+    "time": 21
+  },
+  {
+    "title": "I Made a Self-Quoting Tweet (2020) (oisinmoran.com)",
+    "votes": 120,
+    "username": "thunderbong",
+    "time": 2
+  },
+  {
+    "title": "On \u201ccorrect and efficient work-stealing for weak memory models\u201d (wingolog.org)",
+    "votes": 78,
+    "username": "ingve",
+    "time": 2
+  },
+  {
+    "title": "Intel, SiFive Demo High-Performance RISC-V on Intel 4 (wikichip.org)",
+    "votes": 149,
+    "username": "ac29",
+    "time": 2
+  },
+  {
+    "title": "After 23 years, Weather Channel\u2019s iconic computerized channel is shutting down (arstechnica.com)",
+    "votes": 19,
+    "username": "Brajeshwar",
+    "time": 22
+  },
+  {
+    "title": "Yankee Candle reviews indicate that Covid is about surge again (twitter.com/datadrivenmd)",
+    "votes": 20,
+    "username": "vichu",
+    "time": 14
+  },
+  {
+    "title": "Will We Ever Run Out of Sudoku Puzzles? (britannica.com)",
+    "votes": 55,
+    "username": "jazali",
+    "time": 3
+  },
+  {
+    "title": "Starbucks CEO Howard Schultz's fight to stop a union uprising (washingtonpost.com)",
+    "votes": 27,
+    "username": "mateja",
+    "time": 23
+  },
+  {
+    "title": "SELinux for Mere Mortals (youtube.com)",
+    "votes": 19,
+    "username": "agomez314",
+    "time": 21
+  },
+  {
+    "title": "Nocodb: Turns Any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs (github.com/nocodb)",
+    "votes": 187,
+    "username": "thunderbong",
+    "time": 3
+  },
+  {
+    "title": "Amazon will spend \u20ac1B on electric vans and trucks in Europe (electrek.co)",
+    "votes": 4,
+    "username": "mfiguiere",
+    "time": 9
+  },
+  {
+    "title": "Using Notion as a headless CMS for our blog (datanarratives.com)",
+    "votes": 151,
+    "username": "mooreds",
+    "time": 2
+  },
+  {
+    "title": "The Illustrated Stable Diffusion (jalammar.github.io)",
+    "votes": 620,
+    "username": "mariuz",
+    "time": 5
+  },
+  {
+    "title": "Why doesn't Bash\u2019s \u2018set -e\u2019 do what I expected? (2021) (wooledge.org)",
+    "votes": 176,
+    "username": "gurjeet",
+    "time": 3
+  },
+  {
+    "title": "A supernova star that erupted continuously for about 1,000 days (wikipedia.org)",
+    "votes": 9,
+    "username": "belter",
+    "time": 1
+  },
+  {
+    "title": "The deception of \u201cbuying\u201d digital movies (worldofmatthew.com)",
+    "votes": 594,
+    "username": "worldofmatthew",
+    "time": 6
+  },
+  {
+    "title": "Retinoid restores eye-specific brain responses in mice with retinal degeneration (cell.com)",
+    "votes": 80,
+    "username": "bookofjoe",
+    "time": 2
+  },
+  {
+    "title": "Moore\u2019s Law is dead \u2013 Long live the chiplet (semiwiki.com)",
+    "votes": 156,
+    "username": "chclau",
+    "time": 3
+  },
+  {
+    "title": "Recursion got into programming: intrigue, betrayal, and advanced semantics (vanemden.wordpress.com)",
+    "votes": 32,
+    "username": "ahupp",
+    "time": 2
+  },
+  {
+    "title": "What's so hard about PDF text extraction? (filingdb.com)",
+    "votes": 8,
+    "username": "devy",
+    "time": 12
+  },
+  {
+    "title": "Apple iPhone 14 Pro Camera test (dxomark.com)",
+    "votes": 92,
+    "username": "luu",
+    "time": 3
+  },
+  {
+    "title": "My Trip to Space Filled Me with Overwhelming Sadness (variety.com)",
+    "votes": 367,
+    "username": "signa11",
+    "time": 2
+  },
+  {
+    "title": "Aer Lingus Seeks Compensation For Data Center Chaos That Cancelled Flights (datacenterdynamics.com)",
+    "votes": 54,
+    "username": "belter",
+    "time": 1
+  },
+  {
+    "title": "Young Canadians go to school longer for jobs that pay less (theglobeandmail.com)",
+    "votes": 32,
+    "username": "nithinj",
+    "time": 1
+  },
+  {
+    "title": "Freestyle plaintext productivity by Cal Newport (of Deep Work fame) (calnewport.com)",
+    "votes": 14,
+    "username": "posharma",
+    "time": 2
+  },
+  {
+    "title": "Show HN: Maiao, Stacked Diffs for GitHub (github.com/adevinta)",
+    "votes": 50,
+    "username": "joaoqalves",
+    "time": 1
+  },
+  {
+    "title": "Towing with My Ford Lightning EV Pickup Was a Total Disaster (youtube.com)",
+    "votes": 9,
+    "username": "RadixDLT",
+    "time": 14
+  },
+  {
+    "title": "A Cheap 2.5GbE PoE Unmanaged Switch (servethehome.com)",
+    "votes": 147,
+    "username": "InvaderFizz",
+    "time": 2
+  },
+  {
+    "title": "Towncrier: Fastmail's open source status page (Perl) (github.com/fastmail)",
+    "votes": 15,
+    "username": "dewey",
+    "time": 1
+  },
+  {
+    "title": "Diesel engines can be converted to run on 90% hydrogen (technology.org)",
+    "votes": 31,
+    "username": "DocFeind",
+    "time": 1
+  },
+  {
+    "title": "I won my three-year AI progress bet in three months (astralcodexten.substack.com)",
+    "votes": 3,
+    "username": "maxutility",
+    "time": 10
+  },
+  {
+    "title": "Amazon Abandons Home Delivery Robot Tests in Latest Cost Cuts (bloomberg.com)",
+    "votes": 3,
+    "username": "cheinyeanlim",
+    "time": 10
+  },
+  {
+    "title": "Evolution of the Casio G-Shock Origin (2021) (fratellowatches.com)",
+    "votes": 59,
+    "username": "tosh",
+    "time": 3
+  },
+  {
+    "title": "Postgres WASM (supabase.com)",
+    "votes": 883,
+    "username": "kiwicopple",
+    "time": 6
+  },
+  {
+    "title": "BYU profs create new nuclear reactor to produce nuclear energy more safely (byu.edu)",
+    "votes": 187,
+    "username": "sergiotapia",
+    "time": 3
+  },
+  {
+    "title": "The Fakoo Alphabet (omniglot.com)",
+    "votes": 98,
+    "username": "sings",
+    "time": 2
+  },
+  {
+    "title": "Google officially launches Equiano subsea cable (datacenterdynamics.com)",
+    "votes": 297,
+    "username": "kaycebasques",
+    "time": 4
+  },
+  {
+    "title": "We Burned Down Players\u2019 Houses in Ultima Online (cotten.io)",
+    "votes": 561,
+    "username": "yreg",
+    "time": 6
+  },
+  {
+    "title": "Crystal 1.6.0 Is Released (crystal-lang.org)",
+    "votes": 11,
+    "username": "sdogruyol",
+    "time": 1
+  },
+  {
+    "title": "Plop Boot Manager boots PCs off media they can't start from (theregister.com)",
+    "votes": 5,
+    "username": "8bitsrule",
+    "time": 13
+  },
+  {
+    "title": "The Election-Swinging, Facebook-Fueled, Get-Out-the-Vote Machine (wired.com)",
+    "votes": 7,
+    "username": "gnicholas",
+    "time": 13
+  },
+  {
+    "title": "Not Frequentist Enough (columbia.edu)",
+    "votes": 88,
+    "username": "luu",
+    "time": 2
+  },
+  {
+    "title": "Study links omega-3s to improved brain structure, cognition at midlife (uthscsa.edu)",
+    "votes": 226,
+    "username": "kungfudoi",
+    "time": 3
+  },
+  {
+    "title": "Ask HN: Are EGPUs for M1/M2 MacBook's on Linux Possible?",
+    "votes": 19,
+    "username": "thrwawy74",
+    "time": 1
+  },
+  {
+    "title": "IPL-V Manual (1964) [pdf] (stanford.edu)",
+    "votes": 24,
+    "username": "abrax3141",
+    "time": 2
+  },
+  {
+    "title": "The world\u2019s largest camera is nearly complete (ieee.org)",
+    "votes": 66,
+    "username": "giuliomagnifico",
+    "time": 2
+  },
+  {
+    "title": "Anna Politkovskaya (wikipedia.org)",
+    "votes": 36,
+    "username": "FridayoLeary",
+    "time": 1
+  },
+  {
+    "title": "MIMD Interpretation on a GPU [pdf] (uky.edu)",
+    "votes": 27,
+    "username": "ColinWright",
+    "time": 2
+  },
+  {
+    "title": "Managers with a business degree reduce employees' wages, do not increase profit (nber.org)",
+    "votes": 620,
+    "username": "jstx1",
+    "time": 3
+  },
+  {
+    "title": "Ask HN: How to deal with markets down turn? Feeling down",
+    "votes": 145,
+    "username": "dev_0",
+    "time": 1
+  },
+  {
+    "title": "A Single Dewdrop: The Pleasures of \u201cSatyajit Ray: Miscellany\u201d (mubi.com)",
+    "votes": 26,
+    "username": "Thevet",
+    "time": 2
+  },
+  {
+    "title": "Basilisk II: Classic Mac Emulator \u2013 Garrett Fuller (garrettfuller.org)",
+    "votes": 10,
+    "username": "mateja",
+    "time": 1
+  },
+  {
+    "title": "Linvo-Scraper: LinkedIn Automation Bot (github.com/linvo-io)",
+    "votes": 32,
+    "username": "simonpure",
+    "time": 1
+  },
+  {
+    "title": "!!Con 2022 (bangbangcon.com)",
+    "votes": 32,
+    "username": "grimgrin",
+    "time": 2
+  },
+  {
+    "title": "Ignoring rules, teachers sneak tough math courses into their school (washingtonpost.com)",
+    "votes": 11,
+    "username": "7402",
+    "time": 21
+  },
+  {
+    "title": "Recreating macOS\u2019s Drift Screensaver with Rust and WASM (github.com/sandydoo)",
+    "votes": 153,
+    "username": "Whitespace",
+    "time": 3
+  },
+  {
+    "title": "Max Tegmark on why there's now a 1-in-6 chance of an imminent global Nuclear War (twitter.com/tegmark)",
+    "votes": 13,
+    "username": "memish",
+    "time": 21
+  },
+  {
+    "title": "Working Arrangement (laphamsquarterly.org)",
+    "votes": 18,
+    "username": "prostoalex",
+    "time": 2
+  },
+  {
+    "title": "$570M worth of Binance\u2019s BNB token stolen (cnbc.com)",
+    "votes": 153,
+    "username": "labarilem",
+    "time": 2
+  },
+  {
+    "title": "The single market is looking wobbly (economist.com)",
+    "votes": 49,
+    "username": "ivanvas",
+    "time": 16
+  },
+  {
+    "title": "Apache Pegasus - A horizontally scalable, high-performance key-value store (github.com/apache)",
+    "votes": 109,
+    "username": "indogooner",
+    "time": 3
+  },
+  {
+    "title": "Tell HN: A disabled 40-year-old person founded a startup and makes a living",
+    "votes": 768,
+    "username": "michaelcao",
+    "time": 7
+  },
+  {
+    "title": "How We Remember Last Weekend (nautil.us)",
+    "votes": 44,
+    "username": "dnetesn",
+    "time": 3
+  },
+  {
+    "title": "The CD\u2019s Rise in the Music Business: An Oral History (billboard.com)",
+    "votes": 59,
+    "username": "wallflower",
+    "time": 2
+  },
+  {
+    "title": "Canonical Launches Ubuntu Pro (ubuntu.com)",
+    "votes": 70,
+    "username": "ShowalkKama",
+    "time": 1
+  },
+  {
+    "title": "Notes against note-taking systems (sashachapin.substack.com)",
+    "votes": 305,
+    "username": "Tomte",
+    "time": 4
+  },
+  {
+    "title": "Companies are paying huge sums to show their ads to bots (wired.com)",
+    "votes": 615,
+    "username": "marban",
+    "time": 7
+  },
+  {
+    "title": "Zerocal \u2013 A Serverless Calendar App in Rust (endler.dev)",
+    "votes": 154,
+    "username": "omn1",
+    "time": 3
+  },
+  {
+    "title": "PocketBase: Open-source back end in 1 file (pocketbase.io)",
+    "votes": 29,
+    "username": "thunderbong",
+    "time": 2
+  },
+  {
+    "title": "\u201cWhen are we going to use this in our everyday life?\u201d (2017) (flavoracle.tumblr.com)",
+    "votes": 408,
+    "username": "susam",
+    "time": 5
+  },
+  {
+    "title": "Matter \u2013 Protocol to connect compatible devices and systems with one another (staceyoniot.com)",
+    "votes": 391,
+    "username": "itherseed",
+    "time": 5
+  },
+  {
+    "title": "Connected Components (simblob.blogspot.com)",
+    "votes": 8,
+    "username": "guiambros",
+    "time": 1
+  },
+  {
+    "title": "Granting Pardon for the Offense of Simple Possession of Marijuana (whitehouse.gov)",
+    "votes": 781,
+    "username": "9wzYQbTYsAIc",
+    "time": 3
+  },
+  {
+    "title": "\u2018The Owner of This iPhone Was in a Severe Car Crash\u2019\u2013Or Just on a Roller Coaster (wsj.com)",
+    "votes": 5,
+    "username": "greyface-",
+    "time": 14
+  },
+  {
+    "title": "Arbitrary Lines: The way restrctive zoning costs all of us (cato.org)",
+    "votes": 63,
+    "username": "jseliger",
+    "time": 1
+  },
+  {
+    "title": "Happy 20th birthday Jira You suck so bad (rida.dev)",
+    "votes": 100,
+    "username": "julian_digital",
+    "time": 1
+  },
+  {
+    "title": "Happy 20th birthday Jira You suck so bad (rida.dev)",
+    "votes": 100,
+    "username": "julian_digital",
+    "time": 1
+  },
+  {
+    "title": "Stackswap coroutines, neither stackful nor stackless (cofault.com)",
+    "votes": 15,
+    "username": "nikita_d",
+    "time": 2
+  },
+  {
+    "title": "Skepticism, Confusion, Frustration: Inside Mark Zuckerberg\u2019s Metaverse Struggles (nytimes.com)",
+    "votes": 7,
+    "username": "tysone",
+    "time": 9
+  },
+  {
+    "title": "Self Referencing HN Submission (news.ycombinator.com)",
+    "votes": 37,
+    "username": "tomschwiha",
+    "time": 2
+  },
+  {
+    "title": "Solid-state NASA battery beats the Model Y's 4680 pack at energy density (notebookcheck.net)",
+    "votes": 13,
+    "username": "metadat",
+    "time": 19
+  },
+  {
+    "title": "Pixel 7, Pixel 7 Pro and Google Pixel Watch (blog.google)",
+    "votes": 47,
+    "username": "tosh",
+    "time": 3
+  },
+  {
+    "title": "Interesting use cases for Stable Diffusion (and other AI image models) (charleswilliamson.com)",
+    "votes": 9,
+    "username": "cfjw",
+    "time": 1
+  },
+  {
+    "title": "Feds seized $311M in Bitcoin, then hacker stole it back (bloomberg.com)",
+    "votes": 287,
+    "username": "prostoalex",
+    "time": 5
+  },
+  {
+    "title": "Electrochemical potential enables dormant spores to integrate enviro signals (science.org)",
+    "votes": 109,
+    "username": "respinal",
+    "time": 3
+  },
+  {
+    "title": "NVIDIA and nouveau (lwn.net)",
+    "votes": 196,
+    "username": "pabs3",
+    "time": 4
+  },
+  {
+    "title": "Ask HN: How do remote first businesses maintain cultural cohesion?",
+    "votes": 43,
+    "username": "bognition",
+    "time": 19
+  },
+  {
+    "title": "Why Mastering Language Is So Difficult for AI (undark.org)",
+    "votes": 72,
+    "username": "TeacherTortoise",
+    "time": 2
+  },
+  {
+    "title": "How criminals are using jammers, deauthers to disrupt WiFi security cameras (wxyz.com)",
+    "votes": 294,
+    "username": "bookofjoe",
+    "time": 5
+  },
+  {
+    "title": "Top USB Drives on Amazon are a Scam (kurtisknodel.com)",
+    "votes": 334,
+    "username": "Arch485",
+    "time": 2
+  },
+  {
+    "title": "The hackers keeping you safe online (blog.google)",
+    "votes": 27,
+    "username": "megahz",
+    "time": 3
+  },
+  {
+    "title": "Show HN: Build a website in 30 seconds using GPT-3 (durable.co)",
+    "votes": 48,
+    "username": "rookhack",
+    "time": 3
+  },
+  {
+    "title": "Stateless \u2013 Evolving the architecture of Elasticsearch to simplify deployment (elastic.co)",
+    "votes": 122,
+    "username": "soheilpro",
+    "time": 3
+  },
+  {
+    "title": "Internet Archive Seeks Material for Library of Amateur Radio and Communications (archive.org)",
+    "votes": 263,
+    "username": "savetz",
+    "time": 5
+  },
+  {
+    "title": "The Brain on Psychedelics (nature.com)",
+    "votes": 131,
+    "username": "benbreen",
+    "time": 3
+  },
+  {
+    "title": "Show HN: PyTorch search engine (you.com)",
+    "votes": 65,
+    "username": "chris_f",
+    "time": 2
+  },
+  {
+    "title": "Early Cormac McCarthy Interviews Rediscovered (nytimes.com)",
+    "votes": 87,
+    "username": "samclemens",
+    "time": 5
+  },
+  {
+    "title": "Ask HN: Have you noticed an increase in the number of Stripe Disputes lately?",
+    "votes": 72,
+    "username": "cellover",
+    "time": 2
+  },
+  {
+    "title": "Ask HN: Why are JavaScript dependencies so messy?",
+    "votes": 54,
+    "username": "graderjs",
+    "time": 18
+  },
+  {
+    "title": "Gauss's Pythagorean right triangle proposal (wikipedia.org)",
+    "votes": 43,
+    "username": "benbreen",
+    "time": 2
+  },
+  {
+    "title": "How Insurers Exploited Medicare for Billions (nytimes.com)",
+    "votes": 30,
+    "username": "metadat",
+    "time": 1
+  },
+  {
+    "title": "BPF as a safer kernel programming environment (lwn.net)",
+    "votes": 25,
+    "username": "signa11",
+    "time": 3
+  },
+  {
+    "title": "Reusing the Sony CRT Module of an HP 16500A Logic Analyzer (tomverbeure.github.io)",
+    "votes": 27,
+    "username": "picture",
+    "time": 2
+  },
+  {
+    "title": "Watchman: Execute a command when something changes (github.com/crodjer)",
+    "votes": 246,
+    "username": "ColinWright",
+    "time": 4
+  },
+  {
+    "title": "Learning to program is getting harder (2018) (allendowney.blogspot.com)",
+    "votes": 8,
+    "username": "paulpauper",
+    "time": 15
+  },
+  {
+    "title": "Static HTML Comments (sive.rs)",
+    "votes": 5,
+    "username": "soheilpro",
+    "time": 1
+  },
+  {
+    "title": "Kubernetes Hardening Guidance [pdf] (defense.gov)",
+    "votes": 234,
+    "username": "cjg",
+    "time": 4
+  },
+  {
+    "title": "The Fundamentals of Control Theory (engineeringmedia.com)",
+    "votes": 507,
+    "username": "teleforce",
+    "time": 6
+  },
+  {
+    "title": "What Is a Lagrange Point? (nasa.gov)",
+    "votes": 9,
+    "username": "arkj",
+    "time": 20
+  },
+  {
+    "title": "The Future of the Web Is on the Edge (deno.com)",
+    "votes": 227,
+    "username": "0xedb",
+    "time": 3
+  },
+  {
+    "title": "Barge traffic halted on Mississippi River by lowest water levels in a decade (cnn.com)",
+    "votes": 34,
+    "username": "rntn",
+    "time": 1
+  },
+  {
+    "title": "Hard Mode Rust (matklad.github.io)",
+    "votes": 41,
+    "username": "todsacerdoti",
+    "time": 3
+  },
+  {
+    "title": "JetBrains Ring UI (jetbrains.github.io)",
+    "votes": 348,
+    "username": "gjvc",
+    "time": 2
+  },
+  {
+    "title": "Interactive Submarine Cable Map (submarinecablemap.com)",
+    "votes": 175,
+    "username": "gnososphere",
+    "time": 3
+  },
+  {
+    "title": "Burnham, Elon, and the Revenge of Entrepreneurial Capitalism (eriktorenberg.substack.com)",
+    "votes": 19,
+    "username": "jger15",
+    "time": 2
+  },
+  {
+    "title": "Ask HN: Best format for publishing your works in 2022?",
+    "votes": 3,
+    "username": "s1k3s",
+    "time": 17
+  },
+  {
+    "title": "How to move a running process into a tmux session (2020) (xai.sh)",
+    "votes": 303,
+    "username": "s0l1dsnak3123",
+    "time": 5
+  },
+  {
+    "title": "We\u2019ll always need stories to find shared meaning \u2013 George Miller (vulture.com)",
+    "votes": 3,
+    "username": "gareth_untether",
+    "time": 13
+  },
+  {
+    "title": "The Death of the Vegetarian (telegraph.co.uk)",
+    "votes": 21,
+    "username": "indigodaddy",
+    "time": 1
+  },
+  {
+    "title": "Many scientists see fusion as the future of energy (nationalgeographic.co.uk)",
+    "votes": 166,
+    "username": "hhs",
+    "time": 4
+  },
+  {
+    "title": "Oak Ridge's Frontier HPC breaks daily (tomshardware.com)",
+    "votes": 3,
+    "username": "killjoywashere",
+    "time": 13
+  },
+  {
+    "title": "Why Is Europe More Equal Than the United States? (aeaweb.org)",
+    "votes": 31,
+    "username": "mooreds",
+    "time": 9
+  },
+  {
+    "title": "What Are the Odds? (terrytao.wordpress.com)",
+    "votes": 142,
+    "username": "jjgreen",
+    "time": 4
+  },
+  {
+    "title": "Celsius exposes the names of all customers (web3isgoinggreat.com)",
+    "votes": 148,
+    "username": "wslh",
+    "time": 3
+  },
+  {
+    "title": "Six Shooter Glue Gun (vijemiller.com)",
+    "votes": 3,
+    "username": "zdw",
+    "time": 1
+  },
+  {
+    "title": "E. Nesbit used grief, politics, imagination to make a new kind of book for kids (newyorker.com)",
+    "votes": 28,
+    "username": "pepys",
+    "time": 2
+  },
+  {
+    "title": "Startup Builds Houses by Pumping Concrete into Inflatable Forms (singularityhub.com)",
+    "votes": 110,
+    "username": "cheinyeanlim",
+    "time": 3
+  },
+  {
+    "title": "RIAA Thwarts Yout\u2019s Attempt to Declare YouTube-Ripping Legal (torrentfreak.com)",
+    "votes": 94,
+    "username": "ChrisArchitect",
+    "time": 3
+  },
+  {
+    "title": "Grad students at Northeastern pushed back against invasive digital surveillance (pluralistic.net)",
+    "votes": 168,
+    "username": "ColinWright",
+    "time": 1
+  },
+  {
+    "title": "S.F. plans to rezone the city to allow the production of just 34,000 new homes (sfchronicle.com)",
+    "votes": 32,
+    "username": "jseliger",
+    "time": 1
+  },
+  {
+    "title": "Text Is the Universal Interface (scale.com)",
+    "votes": 191,
+    "username": "marban",
+    "time": 4
+  },
+  {
+    "title": "Where Online Hate Speech Can Bring the Police to Your Door (archive.org)",
+    "votes": 65,
+    "username": "ColinWright",
+    "time": 16
+  },
+  {
+    "title": "Combination of Rapamycin and Acarbose significantly Extends Lifespan (lifespan.io)",
+    "votes": 95,
+    "username": "evo_9",
+    "time": 2
+  },
+  {
+    "title": "Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display (kernel.org)",
+    "votes": 348,
+    "username": "electricant",
+    "time": 5
+  },
+  {
+    "title": "How can I create an Impact in the world when all I know is how to make software?",
+    "votes": 8,
+    "username": "AdityaSanthosh",
+    "time": 22
+  },
+  {
+    "title": "Command line and local web note\u2011taking, bookmarking, archiving application (xwmx.github.io)",
+    "votes": 9,
+    "username": "damir",
+    "time": 2
+  },
+  {
+    "title": "Maigret: Collect a dossier on a person by username from thousands of sites (github.com/soxoj)",
+    "votes": 496,
+    "username": "denysvitali",
+    "time": 7
+  },
+  {
+    "title": "Rex: The World's Smallest PDA [video] (youtube.com)",
+    "votes": 65,
+    "username": "fortran77",
+    "time": 5
+  },
+  {
+    "title": "Possible Intel Alder Lake BIOS source code leak (twitter.com/glowingfreak)",
+    "votes": 4,
+    "username": "tomas789",
+    "time": 13
+  },
+  {
+    "title": "I changed my mind about writing new JavaScript frameworks (whitep4nth3r.com)",
+    "votes": 20,
+    "username": "kiyanwang",
+    "time": 2
+  },
+  {
+    "title": "Decision Trees in Python: Predicting Diabetes (statisticallyrelevant.com)",
+    "votes": 90,
+    "username": "rbanffy",
+    "time": 3
+  },
+  {
+    "title": "Dadda Multiplier (wikipedia.org)",
+    "votes": 37,
+    "username": "gbrown_",
+    "time": 4
+  },
+  {
+    "title": "New report paints gloomy picture of the world\u2019s nuclear industry (thebulletin.org)",
+    "votes": 18,
+    "username": "pseudolus",
+    "time": 1
+  },
+  {
+    "title": "California to discontinue plastic grocery bags (sfgate.com)",
+    "votes": 35,
+    "username": "CalChris",
+    "time": 18
+  },
+  {
+    "title": "Programming in BASIC on the TRS-80 (2015) (baugues.com)",
+    "votes": 3,
+    "username": "derwiki",
+    "time": 1
+  },
+  {
+    "title": "Hafnium Controversy (wikipedia.org)",
+    "votes": 21,
+    "username": "trasz",
+    "time": 1
+  },
+  {
+    "title": "Ask HN: Why do people come to HN for Stripe resolutions?",
+    "votes": 227,
+    "username": "aliqot",
+    "time": 22
+  },
+  {
+    "title": "From Burned Out Tech CEO to Amazon Warehouse Associate (jasonshen.com)",
+    "votes": 356,
+    "username": "jasonshen",
+    "time": 6
+  },
+  {
+    "title": "Infosys asked HR not to hire 'Indian-origin candidates', 'women with children' (timesnownews.com)",
+    "votes": 167,
+    "username": "webmobdev",
+    "time": 22
+  },
+  {
+    "title": "The 'attention economy' corrupts science (bigthink.com)",
+    "votes": 322,
+    "username": "respinal",
+    "time": 6
+  },
+  {
+    "title": "Leonardo Syndrome (thoughtfulatlas.bearblog.dev)",
+    "votes": 122,
+    "username": "memorable",
+    "time": 3
+  },
+  {
+    "title": "Show HN: I finished v5 of a JVM framework I've spent spent half a decade making (javalin.io)",
+    "votes": 375,
+    "username": "tipsee",
+    "time": 6
+  },
+  {
+    "title": "The Tilde Text Editor (ghalkes.nl)",
+    "votes": 24,
+    "username": "assttoasstmgr",
+    "time": 3
+  },
+  {
+    "title": "Show HN: Sharing, command-line tool to share files with your phone (github.com/parvardegr)",
+    "votes": 188,
+    "username": "parvardegr",
+    "time": 4
+  },
+  {
+    "title": "What is it like to program with artificial intelligence? (arxiv.org)",
+    "votes": 5,
+    "username": "azhenley",
+    "time": 1
+  },
+  {
+    "title": "Far-ultraviolet LED designed to kill bacteria and viruses without harming humans (riken.jp)",
+    "votes": 34,
+    "username": "geox",
+    "time": 2
+  },
+  {
+    "title": "Tell HN: Neptune Jupiter Uranus Mars and the Moon Colinear",
+    "votes": 16,
+    "username": "graderjs",
+    "time": 1
+  },
+  {
+    "title": "What Makes the Zig Programming Language Unique? (erikexplores.substack.com)",
+    "votes": 128,
+    "username": "socialdemocrat",
+    "time": 4
+  },
+  {
+    "title": "Celsius Execs Cashed Out $40M in Crypto Before Halting Withdrawals for Customers (gizmodo.com)",
+    "votes": 475,
+    "username": "ekpyrotic",
+    "time": 3
+  },
+  {
+    "title": "German rail operator says train disruption caused by sabotage (dw.com)",
+    "votes": 122,
+    "username": "filleokus",
+    "time": 2
+  },
+  {
+    "title": "My channel is now demonetized because I cover the war [video] (youtube.com)",
+    "votes": 99,
+    "username": "tomohawk",
+    "time": 1
+  },
+  {
+    "title": "UK Plans for Three-Hour Power Blackouts in Event of Gas Shortages (sky.com)",
+    "votes": 169,
+    "username": "belter",
+    "time": 3
+  },
+  {
+    "title": "Forth: A New Way to Program a Mini Computer (1974) (adsabs.harvard.edu)",
+    "votes": 9,
+    "username": "Someone",
+    "time": 1
+  },
+  {
+    "title": "Tesla Vision Update: Replacing Ultrasonic Sensors with Tesla Vision (tesla.com)",
+    "votes": 204,
+    "username": "dagmx",
+    "time": 5
+  },
+  {
+    "title": "Openings (2021) (oup.com)",
+    "votes": 33,
+    "username": "apollinaire",
+    "time": 4
+  },
+  {
+    "title": "Amazon \u201csuicide kits\u201d have led to teen deaths (arstechnica.com)",
+    "votes": 96,
+    "username": "tannedNerd",
+    "time": 19
+  },
+  {
+    "title": "Ask HN: 10k hours rule to master anything. Could I switch career when I am 43?",
+    "votes": 185,
+    "username": "michaelcao",
+    "time": 3
+  },
+  {
+    "title": "Home internet connections are unfair (youtube.com)",
+    "votes": 7,
+    "username": "dave_taht",
+    "time": 20
+  },
+  {
+    "title": "Paramount+ showing ads with premium subscriptions",
+    "votes": 13,
+    "username": "prirun",
+    "time": 1
+  },
+  {
+    "title": "New US Executive Order on EU-US data transfers unlikely to satisfy EU law (noyb.eu)",
+    "votes": 26,
+    "username": "layer8",
+    "time": 1
+  },
+  {
+    "title": "Glut of Fake LinkedIn Profiles Pits HR Against the Bots (krebsonsecurity.com)",
+    "votes": 115,
+    "username": "todsacerdoti",
+    "time": 4
+  },
+  {
+    "title": "Advent of Computing Episode 92 \u2013 Copy Protection [audio] (libsyn.com)",
+    "votes": 9,
+    "username": "type0",
+    "time": 2
+  },
+  {
+    "title": "Expanding the Mandelbrot Set into Higher Dimensions (2010) [pdf] (bridgesmathart.org)",
+    "votes": 28,
+    "username": "peter_d_sherman",
+    "time": 2
+  },
+  {
+    "title": "Why one of Europe's top airports has become a 'crazy mess' (cnn.com)",
+    "votes": 9,
+    "username": "rntn",
+    "time": 23
+  },
+  {
+    "title": "Leap Technology [video] (youtube.com)",
+    "votes": 3,
+    "username": "gjvc",
+    "time": 1
+  },
+  {
+    "title": "Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless (nobelprize.org)",
+    "votes": 166,
+    "username": "solarist",
+    "time": 5
+  },
+  {
+    "title": "Banks are not repaying victims of Zelle scams (krebsonsecurity.com)",
+    "votes": 249,
+    "username": "todsacerdoti",
+    "time": 2
+  },
+  {
+    "title": "Lufthansa confirms ban on \u201cactivated AirTags\u201d (twitter.com/lufthansa)",
+    "votes": 21,
+    "username": "schappim",
+    "time": 1
+  },
+  {
+    "title": "Classic SE Mistakes (1996) (nmsu.edu)",
+    "votes": 75,
+    "username": "arpa",
+    "time": 3
+  },
+  {
+    "title": "Chicago scientists are testing an unhackable quantum internet in their basement (washingtonpost.com)",
+    "votes": 5,
+    "username": "thelock85",
+    "time": 18
+  },
+  {
+    "title": "Inflation is at a 40 year high. What can history teach us? (pranshum.com)",
+    "votes": 195,
+    "username": "pranshum",
+    "time": 5
+  },
+  {
+    "title": "DreamFusion: Text-to-3D using 2D Diffusion (dreamfusion3d.github.io)",
+    "votes": 833,
+    "username": "going_ham",
+    "time": 10
+  },
+  {
+    "title": "All the stupid startup/app ideas I've had so far",
+    "votes": 50,
+    "username": "superdario",
+    "time": 3
+  },
+  {
+    "title": "Spiders Can See the iPhone's Lidar (reddit.com)",
+    "votes": 49,
+    "username": "nateb2022",
+    "time": 2
+  },
+  {
+    "title": "Simulating Wind on Procedural Terrain Using Lattice Boltzmann Method (nickmcd.me)",
+    "votes": 3,
+    "username": "dmit",
+    "time": 1
+  },
+  {
+    "title": "Deep Learning Is Hitting a Wall (nautil.us)",
+    "votes": 30,
+    "username": "martinlaz",
+    "time": 2
+  },
+  {
+    "title": "System 7 / macOS 7 in the browser (system7.app)",
+    "votes": 24,
+    "username": "einichi",
+    "time": 3
+  },
+  {
+    "title": "Samsung Kicks Advanced-Chipmaking Race into High Gear with Road Map (wsj.com)",
+    "votes": 56,
+    "username": "wallflower",
+    "time": 3
+  },
+  {
+    "title": "Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027 (airandspaceforces.com)",
+    "votes": 107,
+    "username": "dangle1",
+    "time": 4
+  },
+  {
+    "title": "SQLite: QEMU All over Again? (glaubercosta-11125.medium.com)",
+    "votes": 275,
+    "username": "eatonphil",
+    "time": 5
+  },
+  {
+    "title": "UML: My Part in Its Downfall (tratt.net)",
+    "votes": 222,
+    "username": "ltratt",
+    "time": 6
+  },
+  {
+    "title": "Jq Internals: Backtracking (2017) (github.com/stedolan)",
+    "votes": 122,
+    "username": "mshockwave",
+    "time": 4
+  },
+  {
+    "title": "Scsh: Open-source Unix shell embedded within Scheme (scsh.net)",
+    "votes": 20,
+    "username": "ingve",
+    "time": 3
+  },
+  {
+    "title": "Templating in HTML (kittygiraudel.com)",
+    "votes": 198,
+    "username": "clairity",
+    "time": 5
+  },
+  {
+    "title": "Select * from cloud (steampipe.io)",
+    "votes": 785,
+    "username": "kiyanwang",
+    "time": 9
+  },
+  {
+    "title": "Markdown-formula \u2013 VSCode extension which evaluates Excel-like formulas (visualstudio.com)",
+    "votes": 6,
+    "username": "majkinetor",
+    "time": 22
+  },
+  {
+    "title": "FCC to remove companies from robocall database for non-compliance [pdf] (fcc.gov)",
+    "votes": 414,
+    "username": "nobody9999",
+    "time": 4
+  },
+  {
+    "title": "Summary of How to Win Friends and Influence People (fs.blog)",
+    "votes": 17,
+    "username": "mgh2",
+    "time": 1
+  },
+  {
+    "title": "Codebase as Database: Turning the IDE Inside Out with Datalog (2020) (petevilter.me)",
+    "votes": 256,
+    "username": "rohitpaulk",
+    "time": 6
+  },
+  {
+    "title": "Why do we abandon projects? [video] (youtube.com)",
+    "votes": 4,
+    "username": "f1shy",
+    "time": 15
+  },
+  {
+    "title": "Ask HN: Any legal place to buy offline TV movie downloads?",
+    "votes": 38,
+    "username": "fxtentacle",
+    "time": 23
+  },
+  {
+    "title": "Cpm65: CP/M for the 6502 (github.com/davidgiven)",
+    "votes": 131,
+    "username": "ingve",
+    "time": 4
+  },
+  {
+    "title": "Early History of SQL (2012) (ieee.org)",
+    "votes": 3,
+    "username": "osigurdson",
+    "time": 1
+  },
+  {
+    "title": "The non-linear workdays changing the shape of productivity (bbc.com)",
+    "votes": 73,
+    "username": "mustafabisic1",
+    "time": 3
+  },
+  {
+    "title": "Ali Cehreli Introduces Dlang at Northeastern U (youtube.com)",
+    "votes": 8,
+    "username": "WalterBright",
+    "time": 1
+  },
+  {
+    "title": "Building a Startup on Clojure (wobaka.com)",
+    "votes": 218,
+    "username": "drikerf",
+    "time": 5
+  },
+  {
+    "title": "Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters (ucsd.edu)",
+    "votes": 159,
+    "username": "kungfudoi",
+    "time": 5
+  },
+  {
+    "title": "RFC: C++ Buffer Hardening (llvm.org)",
+    "votes": 111,
+    "username": "gok",
+    "time": 4
+  },
+  {
+    "title": "CMSC 430: Design and Implementation of Programming Languages (umd.edu)",
+    "votes": 187,
+    "username": "ingve",
+    "time": 5
+  },
+  {
+    "title": "EPA proposes deeming leaded (aviation) fuel a danger to public health (thehill.com)",
+    "votes": 49,
+    "username": "V-eHGsd_",
+    "time": 2
+  },
+  {
+    "title": "/ vs. \\ confuses me a lot, how do you remember them?",
+    "votes": 5,
+    "username": "shivajikobardan",
+    "time": 1
+  },
+  {
+    "title": "Ask HN: Multi-Protocol Chat Clients",
+    "votes": 4,
+    "username": "iroddis",
+    "time": 21
+  },
+  {
+    "title": "Microsoft bakes a VPN into Edge and turns it on (adguard-vpn.com)",
+    "votes": 608,
+    "username": "elashri",
+    "time": 9
+  },
+  {
+    "title": "Show HN: I made an open source Chrome extension to notify you of new HN replies (github.com/engagespot)",
+    "votes": 23,
+    "username": "anandrmedia",
+    "time": 1
+  },
+  {
+    "title": "ClickHouse Cloud is now in Public Beta (clickhouse.com)",
+    "votes": 278,
+    "username": "taubek",
+    "time": 5
+  },
+  {
+    "title": "David Brock's Bogus Local News Sites (axios.com)",
+    "votes": 4,
+    "username": "tomohawk",
+    "time": 19
+  },
+  {
+    "title": "Goal: Pass all 4259065 tests in sqllogictest in 1 week (github.com/jamii)",
+    "votes": 286,
+    "username": "luu",
+    "time": 6
+  },
+  {
+    "title": "Incident with Actions and Codespaces (githubstatus.com)",
+    "votes": 40,
+    "username": "saltymimir",
+    "time": 4
+  },
+  {
+    "title": "Comparing 5 Free Hosting Tiers (that don't require credit cards) (battlesnake.com)",
+    "votes": 58,
+    "username": "suspiciousgrape",
+    "time": 4
+  },
+  {
+    "title": "People are coming out of retirement due to cost-of-living crisis (theregister.com)",
+    "votes": 48,
+    "username": "LinuxBender",
+    "time": 2
+  },
+  {
+    "title": "Cloud desktops aren't as good as you'd think (mjg59.dreamwidth.org)",
+    "votes": 373,
+    "username": "TangerineDream",
+    "time": 4
+  },
+  {
+    "title": "Is dictation on iOS 16 broke for you? (discussions.apple.com)",
+    "votes": 4,
+    "username": "zwilliamson",
+    "time": 16
+  },
+  {
+    "title": "Ask HN: What content/knowledge is most important?",
+    "votes": 57,
+    "username": "KennyFromIT",
+    "time": 3
+  },
+  {
+    "title": "Google\u2019s \u201cmillion\u2019s of search results\u201d are not being served (serpapi.com)",
+    "votes": 264,
+    "username": "vincent_s",
+    "time": 6
+  },
+  {
+    "title": "The Road That Killed a City (theroadthatkilledacity.com)",
+    "votes": 36,
+    "username": "danielam",
+    "time": 4
+  },
+  {
+    "title": "Why Don\u2019t We Use Chemical Weapons Anymore? (acoup.blog)",
+    "votes": 51,
+    "username": "troops_h8r",
+    "time": 3
+  },
+  {
+    "title": "Memories: Edinburgh ML to Standard ML (lawrencecpaulson.github.io)",
+    "votes": 117,
+    "username": "todsacerdoti",
+    "time": 4
+  },
+  {
+    "title": "Matrix-webcam displays your webcam video feed in the console (github.com/joschuck)",
+    "votes": 402,
+    "username": "joschuck",
+    "time": 7
+  },
+  {
+    "title": "Small-scale Bitcoin mining as an economic enabler for renewable energy in Africa (africansignals.substack.com)",
+    "votes": 27,
+    "username": "kevinak",
+    "time": 4
+  },
+  {
+    "title": "Telefunc: Remote Functions instead of API (telefunc.com)",
+    "votes": 154,
+    "username": "denysonique",
+    "time": 8
+  },
+  {
+    "title": "Postgres: A better message queue than Kafka? (dagster.io)",
+    "votes": 65,
+    "username": "tylermcginnis",
+    "time": 5
+  },
+  {
+    "title": "These Cats Do Not Exist (thesecatsdonotexist.com)",
+    "votes": 33,
+    "username": "867-5309",
+    "time": 4
+  },
+  {
+    "title": "Verizon adds 5G Home and LTE plans to its free internet program through FCC ACP (9to5mac.com)",
+    "votes": 10,
+    "username": "9wzYQbTYsAIc",
+    "time": 1
+  },
+  {
+    "title": "Charles Mitchell and the 1929 stock crash (thehustle.co)",
+    "votes": 140,
+    "username": "paulpauper",
+    "time": 4
+  },
+  {
+    "title": "Show HN: SigNoz \u2013 open-source alternative to DataDog, NewRelic (github.com/signoz)",
+    "votes": 510,
+    "username": "pranay01",
+    "time": 8
+  },
+  {
+    "title": "Paul McCartney's Freakish Memory (ianleslie.substack.com)",
+    "votes": 247,
+    "username": "tintinnabula",
+    "time": 6
+  },
+  {
+    "title": "Ask HN: Why don't you want my money (by letting me use your software offline?)",
+    "votes": 10,
+    "username": "mr-pink",
+    "time": 1
+  },
+  {
+    "title": "Deferred Argument Evaluation (bannalia.blogspot.com)",
+    "votes": 24,
+    "username": "ibobev",
+    "time": 3
+  },
+  {
+    "title": "Show HN: Kafka 0.8.0 on Cloudflare Workers (github.com/maxwellpeterson)",
+    "votes": 145,
+    "username": "maxwellpeterson",
+    "time": 4
+  },
+  {
+    "title": "U.S. residents fight for the right to hang laundry (2009) (reuters.com)",
+    "votes": 123,
+    "username": "tarakat",
+    "time": 2
+  },
+  {
+    "title": "CHASE scraps OFX Direct Connect, disadvantaging open-source financial software (kde.org)",
+    "votes": 21,
+    "username": "cromka",
+    "time": 1
+  },
+  {
+    "title": "Native port of Digital Research's seminal 1977 operating system CP/M to the 6502 (github.com/davidgiven)",
+    "votes": 31,
+    "username": "ingve",
+    "time": 4
+  },
+  {
+    "title": "Show HN: Async UI: A Rust UI Library Where Everything is a Future (wishawa.github.io)",
+    "votes": 170,
+    "username": "wishawa",
+    "time": 5
+  },
+  {
+    "title": "How I learned about corporate firewalls (valcanbuild.tech)",
+    "votes": 137,
+    "username": "ValCanBuild",
+    "time": 5
+  },
+  {
+    "title": "War and Peace and War \u2013 35 to 32B.C.E. [video] (youtube.com)",
+    "votes": 78,
+    "username": "Tomte",
+    "time": 4
+  },
+  {
+    "title": "Micron picks Syracuse for computer chip plant that would bring up to 9k jobs (syracuse.com)",
+    "votes": 139,
+    "username": "spking",
+    "time": 5
+  },
+  {
+    "title": "Recursive Functions of Symbolic Expressions Computation by Machine (1960) (stanford.edu)",
+    "votes": 65,
+    "username": "abrax3141",
+    "time": 4
+  },
+  {
+    "title": "Tell HN: Twitter suspends arrested Iranian tech blogger\u2019s account (twitter.com/jadi)",
+    "votes": 290,
+    "username": "mehdix",
+    "time": 4
+  },
+  {
+    "title": "Show HN: Earn 9.62% on US Treasury I Bonds on Yotta",
+    "votes": 83,
+    "username": "adammoelis",
+    "time": 4
+  },
+  {
+    "title": "Trauma from the Holodomor genocide continues down through generations (calgaryherald.com)",
+    "votes": 29,
+    "username": "boxmonster",
+    "time": 1
+  },
+  {
+    "title": "California looks to target oil company profits in a special legislative session (npr.org)",
+    "votes": 11,
+    "username": "nowandlater",
+    "time": 1
+  },
+  {
+    "title": "Ask HN: Who is hiring? (October 2022)",
+    "votes": 303,
+    "username": "whoishiring",
+    "time": 6
+  },
+  {
+    "title": "How a Stable Diffusion prompt changes its output for the style of 1500 artists (adityashankar.xyz)",
+    "votes": 374,
+    "username": "politelemon",
+    "time": 7
+  },
+  {
+    "title": "Potential Issues of Using a USB Powerbank as a UPS (2021) (goughlui.com)",
+    "votes": 202,
+    "username": "walterbell",
+    "time": 6
+  },
+  {
+    "title": "Open Source Firmware Conference 2022 [videos] (osfc.io)",
+    "votes": 94,
+    "username": "transpute",
+    "time": 4
+  },
+  {
+    "title": "How to kickstart and scale a consumer business by doing things that don\u2019t scale (lennysnewsletter.com)",
+    "votes": 99,
+    "username": "cpeterso",
+    "time": 4
+  },
+  {
+    "title": "Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430 (ounapuu.ee)",
+    "votes": 192,
+    "username": "hddherman",
+    "time": 6
+  },
+  {
+    "title": "Faster Hash Table Probing (outerproduct.net)",
+    "votes": 14,
+    "username": "todsacerdoti",
+    "time": 3
+  },
+  {
+    "title": "Ask HN: How do you keep up with AI advances, esp. Stable Diffusion and GPT-3?",
+    "votes": 27,
+    "username": "behnamoh",
+    "time": 2
+  },
+  {
+    "title": "Ask HN: Impressions of Google SRE?",
+    "votes": 28,
+    "username": "im_not_the_one",
+    "time": 2
+  },
+  {
+    "title": "Egypt Undersea Cable to Power Millions of European Households (goodnewsnetwork.org)",
+    "votes": 7,
+    "username": "bubblehack3r",
+    "time": 1
+  },
+  {
+    "title": "Ignore 98% of dependency alerts: introducing Semgrep Supply Chain (r2c.dev)",
+    "votes": 176,
+    "username": "ievans",
+    "time": 5
+  },
+  {
+    "title": "Debian votes to include proprietary firmware, amends social contract (tomshardware.com)",
+    "votes": 119,
+    "username": "pabs3",
+    "time": 4
+  },
+  {
+    "title": "Advanced Scientific Data Format (github.com/asdf-format)",
+    "votes": 115,
+    "username": "anigbrowl",
+    "time": 5
+  },
+  {
+    "title": "Pessimism is a barrier to progress (bigthink.com)",
+    "votes": 169,
+    "username": "kiyanwang",
+    "time": 5
+  },
+  {
+    "title": "One of the world\u2019s first human composting facilities (theverge.com)",
+    "votes": 4,
+    "username": "penguin_booze",
+    "time": 22
+  },
+  {
+    "title": "Anti-Jim Cramer ETF Will Bet Against Stocks Endorsed by CNBC Mad Money Host (bloomberg.com)",
+    "votes": 91,
+    "username": "airstrike",
+    "time": 3
+  },
+  {
+    "title": "Over 50% of CEOs say they\u2019re considering cutting jobs over the next 6 months (marketwatch.com)",
+    "votes": 202,
+    "username": "bluedino",
+    "time": 4
+  },
+  {
+    "title": "LSD-like molecules counter depession without the trip (ucsf.edu)",
+    "votes": 332,
+    "username": "hericium",
+    "time": 8
+  },
+  {
+    "title": "First make the change easy, then make the easy change (2021) (adamtal.me)",
+    "votes": 295,
+    "username": "kiyanwang",
+    "time": 7
+  },
+  {
+    "title": "Judge: Facebook intentionally violated WA campaign finance law 822 times (seattletimes.com)",
+    "votes": 34,
+    "username": "8bitsrule",
+    "time": 2
+  },
+  {
+    "title": "Apple asks suppliers to shift AirPods, Beats production to India (nikkei.com)",
+    "votes": 386,
+    "username": "mfiguiere",
+    "time": 4
+  },
+  {
+    "title": "The Pursuit of Beauty (2015) (newyorker.com)",
+    "votes": 11,
+    "username": "happy-go-lucky",
+    "time": 2
+  },
+  {
+    "title": "Toyota CEO talks about why he isn\u2019t all-in on EVs (cnbc.com)",
+    "votes": 243,
+    "username": "mfiguiere",
+    "time": 7
+  },
+  {
+    "title": "Cheapest 10GbE 8-Port Switch TP-Link TL-ST1008F Review (servethehome.com)",
+    "votes": 61,
+    "username": "mariuz",
+    "time": 2
+  },
+  {
+    "title": "Did JFK Eat the World\u2019s Largest Tamale? (texasmonthly.com)",
+    "votes": 3,
+    "username": "samclemens",
+    "time": 1
+  },
+  {
+    "title": "With seemingly endless data storage, people are 'digital hoarding' (techxplore.com)",
+    "votes": 24,
+    "username": "Brajeshwar",
+    "time": 1
+  },
+  {
+    "title": "The Trouble with Startup Accelerators (axios.com)",
+    "votes": 3,
+    "username": "samizdis",
+    "time": 1
+  },
+  {
+    "title": "Netlink Added to FreeBSD \u2013 Unmodified Linux IP(8) Correctly Works (freebsd.org)",
+    "votes": 113,
+    "username": "vermaden",
+    "time": 5
+  },
+  {
+    "title": "After cutting radar, Tesla now dropping ultrasonic sensors from its EVs (arstechnica.com)",
+    "votes": 73,
+    "username": "bpierre",
+    "time": 3
+  },
+  {
+    "title": "ZFS 2.1.6 (github.com/openzfs)",
+    "votes": 173,
+    "username": "lysp",
+    "time": 6
+  },
+  {
+    "title": "hBlock: A Posix-Compliant Ad-Blocker (molinero.dev)",
+    "votes": 57,
+    "username": "rpgbr",
+    "time": 5
+  },
+  {
+    "title": "Webalizer Demo (1999) (webalizer.net)",
+    "votes": 30,
+    "username": "esher",
+    "time": 5
+  },
+  {
+    "title": "Pitchfork: Rack HTTP server for shared-nothing architecture (github.com/shopify)",
+    "votes": 12,
+    "username": "mariuz",
+    "time": 2
+  },
+  {
+    "title": "The 'Egg' Laptop (ikejima.org)",
+    "votes": 418,
+    "username": "rcarmo",
+    "time": 9
+  },
+  {
+    "title": "Ask HN: How to become a deep learning 'master' in 2022?",
+    "votes": 10,
+    "username": "debanjan16",
+    "time": 1
+  },
+  {
+    "title": "RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs (github.com/rootmytv)",
+    "votes": 624,
+    "username": "thunderbong",
+    "time": 11
+  },
+  {
+    "title": "The Solid-State Register Allocator (mattkeeter.com)",
+    "votes": 44,
+    "username": "jmillikin",
+    "time": 5
+  },
+  {
+    "title": "Introducing NVK (collabora.com)",
+    "votes": 133,
+    "username": "phire",
+    "time": 5
+  },
+  {
+    "title": "Why You Hate Your Job (currentaffairs.org)",
+    "votes": 6,
+    "username": "pseudolus",
+    "time": 23
+  },
+  {
+    "title": "Lobsters (lobste.rs)",
+    "votes": 43,
+    "username": "benediktbroich",
+    "time": 23
+  },
+  {
+    "title": "AITemplate, a revolutionary new inference engine by Meta AI (facebook.com)",
+    "votes": 73,
+    "username": "azurezyq",
+    "time": 6
+  },
+  {
+    "title": "Checking statistical properties of protocols using TLA+ (muratbuffalo.blogspot.com)",
+    "votes": 62,
+    "username": "ingve",
+    "time": 3
+  },
+  {
+    "title": "React Modern Audio Player (npmjs.com)",
+    "votes": 66,
+    "username": "musgravite",
+    "time": 3
+  },
+  {
+    "title": "Ask HN: How do I learn to communicate effectively?",
+    "votes": 128,
+    "username": "curious16",
+    "time": 5
+  },
+  {
+    "title": "I was messing around with img2img and I created this monstrosity (reddit.com)",
+    "votes": 146,
+    "username": "sanroot99",
+    "time": 4
+  },
+  {
+    "title": "Life in the Metaverse (nytimes.com)",
+    "votes": 9,
+    "username": "ahiknsr",
+    "time": 12
+  },
+  {
+    "title": "Intel Confirms Aldler Lake BIOS Code Leak (tomshardware.com)",
+    "votes": 3,
+    "username": "geekinchief",
+    "time": 19
+  },
+  {
+    "title": "Sabotage halts rail traffic in northern Germany (reuters.com)",
+    "votes": 13,
+    "username": "Animats",
+    "time": 1
+  },
+  {
+    "title": "The Exquisite Machine: The New Science of the Heart (youtube.com)",
+    "votes": 3,
+    "username": "melling",
+    "time": 1
+  },
+  {
+    "title": "Discovering Novel Algorithms with AlphaTensor (deepmind.com)",
+    "votes": 116,
+    "username": "alexrustic",
+    "time": 4
+  },
+  {
+    "title": "Nerfstudio: A collaboration friendly studio for NeRFs (nerf.studio)",
+    "votes": 103,
+    "username": "kennethfriedman",
+    "time": 4
+  },
+  {
+    "title": "Sourcehut does not ask for IP assignment from employees or contributors (sourcehut.org)",
+    "votes": 5,
+    "username": "ddevault",
+    "time": 1
+  },
+  {
+    "title": "Show HN: WebVM \u2013 x86 VM in WebAssembly, now with networking (via Tailscale) (webvm.io)",
+    "votes": 23,
+    "username": "apignotti",
+    "time": 3
+  },
+  {
+    "title": "Build C++ Graph Analytics Without Worrying About Memory (memgraph.com)",
+    "votes": 63,
+    "username": "taubek",
+    "time": 3
+  },
+  {
+    "title": "JSX Mail: Ending All Your Problems When Creating Email Templates (jsx-mail.org)",
+    "votes": 99,
+    "username": "Theryston",
+    "time": 4
+  },
+  {
+    "title": "Cold Fusion is Back (there's just one problem) [ Sabine Hossenfelder ] (youtube.com)",
+    "votes": 13,
+    "username": "haxiomic",
+    "time": 1
+  },
+  {
+    "title": "AI-powered communication coach (poised.com)",
+    "votes": 134,
+    "username": "lhuser123",
+    "time": 5
+  },
+  {
+    "title": "Show HN: Onboarding Love \u2013 user onboarding from Airbnb, Stripe and many more (marbleflows.com)",
+    "votes": 14,
+    "username": "mfts0",
+    "time": 3
+  },
+  {
+    "title": "I am fine without a smartwatch (joelchrono12.xyz)",
+    "votes": 39,
+    "username": "ecliptik",
+    "time": 5
+  },
+  {
+    "title": "Instagram to increase ad load as Meta fights revenue decline (techcrunch.com)",
+    "votes": 138,
+    "username": "gmays",
+    "time": 4
+  },
+  {
+    "title": "DIY Digital Room Correction with Linux (th0ma5w.github.io)",
+    "votes": 91,
+    "username": "pcr910303",
+    "time": 4
+  },
+  {
+    "title": "Our domain and 700 non-profit sites got blocked by Meta (simonbackx.com)",
+    "votes": 414,
+    "username": "simonbackx",
+    "time": 3
+  },
+  {
+    "title": "Scotland 'snow-free' for fourth time in six years (bbc.co.uk)",
+    "votes": 17,
+    "username": "lisper",
+    "time": 1
+  },
+  {
+    "title": "Unraveling One of Rock\u2019s Deepest Mysteries: Les Rallizes D\u00e9nud\u00e9s (nytimes.com)",
+    "votes": 43,
+    "username": "tintinnabula",
+    "time": 3
+  },
+  {
+    "title": "Algorithmic Curation Impacts Media Exposure in Twitter Timelines (nsf.gov)",
+    "votes": 49,
+    "username": "luu",
+    "time": 4
+  },
+  {
+    "title": "The Lilium Jet (lilium.com)",
+    "votes": 123,
+    "username": "trollied",
+    "time": 5
+  },
+  {
+    "title": "TikTok Parent ByteDance Sees Losses Swell in Push for Growth (wsj.com)",
+    "votes": 79,
+    "username": "mfiguiere",
+    "time": 3
+  },
+  {
+    "title": "Have lots of AWS accounts (src-bin.com)",
+    "votes": 227,
+    "username": "rcrowley",
+    "time": 6
+  },
+  {
+    "title": "My Future with Elixir: set-theoretic types (elixir-lang.org)",
+    "votes": 95,
+    "username": "rukenshia",
+    "time": 4
+  },
+  {
+    "title": "Ask HN: Reading issues, forgetting previous paragraph, does it happen to you?",
+    "votes": 18,
+    "username": "tuyguntn",
+    "time": 1
+  },
+  {
+    "title": "The technology behind Bella Hadid\u2019s spray-on dress (wired.me)",
+    "votes": 212,
+    "username": "Kaibeezy",
+    "time": 6
+  },
+  {
+    "title": "VLC-developer VideoLAN sends legal notice to Indian ministries over ban (techcrunch.com)",
+    "votes": 234,
+    "username": "jmsflknr",
+    "time": 6
+  },
+  {
+    "title": "Splunk IP suit against Cribl (splunk.com)",
+    "votes": 110,
+    "username": "2close4comfort",
+    "time": 4
+  },
+  {
+    "title": "I need structure in my life (janellsihay.com)",
+    "votes": 266,
+    "username": "memorable",
+    "time": 6
+  },
+  {
+    "title": "Pelikan, Twitter\u2019s framework for building caches (github.com/twitter)",
+    "votes": 110,
+    "username": "MrBuddyCasino",
+    "time": 5
+  },
+  {
+    "title": "Espresso.js \u2013 minimal React alternative \u2013 is now a decade old (krymski.com)",
+    "votes": 86,
+    "username": "akrymski",
+    "time": 4
+  },
+  {
+    "title": "Working on the \u201cWeb\u201d Browser for the MEGA65 (c65gs.blogspot.com)",
+    "votes": 41,
+    "username": "ingve",
+    "time": 6
+  },
+  {
+    "title": "Ask HN: Was it worth it for Go to add generics",
+    "votes": 34,
+    "username": "philosopher1234",
+    "time": 2
+  },
+  {
+    "title": "Junior Designers vs. Senior Designers (vanschneider.com)",
+    "votes": 116,
+    "username": "homarp",
+    "time": 6
+  },
+  {
+    "title": "Aristotle influenced the computer (2017) (theatlantic.com)",
+    "votes": 39,
+    "username": "conanxin",
+    "time": 5
+  },
+  {
+    "title": "Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls (cockroachlabs.com)",
+    "votes": 214,
+    "username": "mikaelaustin",
+    "time": 6
+  },
+  {
+    "title": "So you're using a weird language (morepablo.com)",
+    "votes": 237,
+    "username": "todsacerdoti",
+    "time": 4
+  },
+  {
+    "title": "Vintage photos of the Romanovs at the 1903 Costume Ball (thevintagenews.com)",
+    "votes": 44,
+    "username": "dsnr",
+    "time": 6
+  },
+  {
+    "title": "New Pegasus spyware abuses identified in Mexico (citizenlab.ca)",
+    "votes": 215,
+    "username": "stefan_",
+    "time": 7
+  },
+  {
+    "title": "Self-Referential Tweet (twitter.com/slweeb)",
+    "votes": 44,
+    "username": "hasheddan",
+    "time": 3
+  },
+  {
+    "title": "How a razor blade can be damaged as it cuts human hair (2020) (news.mit.edu)",
+    "votes": 206,
+    "username": "raphar",
+    "time": 7
+  },
+  {
+    "title": "Ask HN: How to find a niche for a side project?",
+    "votes": 9,
+    "username": "max_",
+    "time": 1
+  },
+  {
+    "title": "Bruno Latour Has Died (theguardian.com)",
+    "votes": 5,
+    "username": "komposit",
+    "time": 20
+  },
+  {
+    "title": "Intel's Alder Lake BIOS Source Code Reportedly Leaked Online (tomshardware.com)",
+    "votes": 25,
+    "username": "42jd",
+    "time": 2
+  },
+  {
+    "title": "The Full Chess Cheating Report of Hans Neiman (chess.com)",
+    "votes": 440,
+    "username": "jonwachob91",
+    "time": 5
+  },
+  {
+    "title": "How Government Expenditures Finance Themselves (thomas-tanay.github.io)",
+    "votes": 8,
+    "username": "hgomersall",
+    "time": 3
+  },
+  {
+    "title": "Enhanced noise suppression in Jitsi Meet (jitsi.org)",
+    "votes": 322,
+    "username": "jlpcsl",
+    "time": 9
+  },
+  {
+    "title": "The self-taught UI/UX designer roadmap (2021) (uxdesign.cc)",
+    "votes": 369,
+    "username": "homarp",
+    "time": 8
+  },
+  {
+    "title": "Elon Musk moves ahead with Twitter deal in 13D filing (sec.gov)",
+    "votes": 434,
+    "username": "mfiguiere",
+    "time": 5
+  },
+  {
+    "title": "AMD Announces Preliminary Third Quarter 2022 Financial Results (yahoo.com)",
+    "votes": 62,
+    "username": "oumua_don17",
+    "time": 3
+  },
+  {
+    "title": "Project Liftoff: Universal Intelligent Systems by 2030 \u2013 Carl Hewitt (youtube.com)",
+    "votes": 4,
+    "username": "mvelbaum",
+    "time": 20
+  },
+  {
+    "title": "Scrolling the Vic-IV Screen (mega65.com)",
+    "votes": 28,
+    "username": "ibobev",
+    "time": 5
+  },
+  {
+    "title": "GE is laying off 20% of its workforce devoted to onshore wind power (cnbc.com)",
+    "votes": 207,
+    "username": "mfiguiere",
+    "time": 3
+  },
+  {
+    "title": "Rivian recalling nearly all of its vehicles (wsj.com)",
+    "votes": 25,
+    "username": "k2enemy",
+    "time": 2
+  },
+  {
+    "title": "Ask HN: How many programming languages are you proficient in?",
+    "votes": 9,
+    "username": "dev_0",
+    "time": 22
+  },
+  {
+    "title": "Build your fanbase using the K-pop method (lulu.substack.com)",
+    "votes": 207,
+    "username": "cjbest",
+    "time": 7
+  },
+  {
+    "title": "3D Novel View Synthesis with Diffusion Models (3d-diffusion.github.io)",
+    "votes": 106,
+    "username": "dougabug",
+    "time": 5
+  },
+  {
+    "title": "The software that I love (waleson.com)",
+    "votes": 70,
+    "username": "wofo",
+    "time": 7
+  },
+  {
+    "title": "New form of silicon could revolutionize semiconductor industry (phys.org)",
+    "votes": 3,
+    "username": "pseudolus",
+    "time": 2
+  },
+  {
+    "title": "Mojibake (wikipedia.org)",
+    "votes": 94,
+    "username": "BerislavLopac",
+    "time": 5
+  },
+  {
+    "title": "Apple\u2019s ad business set to boom on the back of its own anti-tracking crackdown (adguard.com)",
+    "votes": 732,
+    "username": "elashri",
+    "time": 6
+  },
+  {
+    "title": "Lufthansa bans AirTags in checked luggage (onemileatatime.com)",
+    "votes": 584,
+    "username": "N19PEDL2",
+    "time": 2
+  },
+  {
+    "title": "The lost art of handheld demakes (raspberrypi.com)",
+    "votes": 66,
+    "username": "Kaibeezy",
+    "time": 7
+  },
+  {
+    "title": "Plant Machete (dwbowen.com)",
+    "votes": 24,
+    "username": "yamrzou",
+    "time": 5
+  },
+  {
+    "title": "The Other Internet (robinrendle.com)",
+    "votes": 130,
+    "username": "ZacnyLos",
+    "time": 5
+  },
+  {
+    "title": "Hyperlinks in Handwriting (handwritten.blog)",
+    "votes": 236,
+    "username": "nathell",
+    "time": 7
+  },
+  {
+    "title": "Is This Prime? (isthisprime.com)",
+    "votes": 11,
+    "username": "DarkContinent",
+    "time": 3
+  },
+  {
+    "title": "Facebook reportedly laying off thousands of employees (futurism.com)",
+    "votes": 264,
+    "username": "cromat3",
+    "time": 4
+  },
+  {
+    "title": "PayPal Pulls Back, Says It Won\u2019t Fine Customers $2,500 for \u2018Misinformation\u2019 (nationalreview.com)",
+    "votes": 18,
+    "username": "theduder99",
+    "time": 23
+  },
+  {
+    "title": "DocArray: a data structure for unstructured data (jina.ai)",
+    "votes": 83,
+    "username": "jonbaer",
+    "time": 5
+  },
+  {
+    "title": "Show HN: Behind the Source Podcast: What Is Gitpod? (behindthesource.co.uk)",
+    "votes": 8,
+    "username": "mikestreety",
+    "time": 2
+  },
+  {
+    "title": "Cobra Maneuver (wikipedia.org)",
+    "votes": 217,
+    "username": "Hooke",
+    "time": 7
+  },
+  {
+    "title": "Recording the Grateful Dead: The Culture of Tapers (goodtimes.sc)",
+    "votes": 81,
+    "username": "drdee",
+    "time": 4
+  },
+  {
+    "title": "New Magnetic Field Record: 1200 Tesla [video] (youtube.com)",
+    "votes": 47,
+    "username": "fortran77",
+    "time": 4
+  },
+  {
+    "title": "Ask HN: So you moved off Heroku, where did you go?",
+    "votes": 402,
+    "username": "nomilk",
+    "time": 6
+  },
+  {
+    "title": "Walmart, CVS face trial for homeopathic products next to real meds (arstechnica.com)",
+    "votes": 166,
+    "username": "dxs",
+    "time": 5
+  },
+  {
+    "title": "Epic-Kitchens Dataset (epic-kitchens.github.io)",
+    "votes": 27,
+    "username": "jonbaer",
+    "time": 5
+  },
+  {
+    "title": "RacketCon 2022 (racket-lang.org)",
+    "votes": 65,
+    "username": "jessealama",
+    "time": 2
+  },
+  {
+    "title": "Magma, a new storage engine for Couchbase (smalldatum.blogspot.com)",
+    "votes": 51,
+    "username": "hodgesrm",
+    "time": 6
+  },
+  {
+    "title": "A cure for blindness may be first product made in space (freethink.com)",
+    "votes": 3,
+    "username": "Brajeshwar",
+    "time": 22
+  },
+  {
+    "title": "X64 Cheat Sheet (2019) [pdf] (brown.edu)",
+    "votes": 79,
+    "username": "ingve",
+    "time": 4
+  },
+  {
+    "title": "Citrix acquired and merged with Tibco for $16.5B (cloud.com)",
+    "votes": 268,
+    "username": "avrionov",
+    "time": 9
+  },
+  {
+    "title": "Sly: Sylvester the Cat's Common Lisp IDE (github.com/joaotavora)",
+    "votes": 14,
+    "username": "ducktective",
+    "time": 3
+  },
+  {
+    "title": "The Balto/Togo theory of scientific development (acesounderglass.com)",
+    "votes": 77,
+    "username": "rossvor",
+    "time": 5
+  },
+  {
+    "title": "The Hugging Face Datasets Server is now open-source (github.com/huggingface)",
+    "votes": 217,
+    "username": "taubek",
+    "time": 4
+  },
+  {
+    "title": "The PS5 Has Been Jailbroken (glitched.online)",
+    "votes": 737,
+    "username": "mihau",
+    "time": 7
+  },
+  {
+    "title": "Hacking Google (h4ck1ng.google)",
+    "votes": 351,
+    "username": "foxTN",
+    "time": 9
+  },
+  {
+    "title": "ASML's Secret: A view from inside the global semiconductor giant [video] (youtube.com)",
+    "votes": 171,
+    "username": "timgluz",
+    "time": 6
+  },
+  {
+    "title": "Translation: Xi Jinping on Literature, Art, and Politics After Tiananmen (uscnpm.org)",
+    "votes": 5,
+    "username": "rntn",
+    "time": 22
+  },
+  {
+    "title": "Indexing JSON in MySQL (planetscale.com)",
+    "votes": 25,
+    "username": "creativedg",
+    "time": 3
+  },
+  {
+    "title": "The life-changing effects of hallucinations (bbc.com)",
+    "votes": 74,
+    "username": "Brajeshwar",
+    "time": 3
+  },
+  {
+    "title": "Show HN: (A Better) Hacker News Bookmarklet (thomas.me)",
+    "votes": 9,
+    "username": "marban",
+    "time": 2
+  },
+  {
+    "title": "HomeBrew: Don't Link OpenSSL (github.com/homebrew)",
+    "votes": 15,
+    "username": "behnamoh",
+    "time": 4
+  },
+  {
+    "title": "Flip-Segment Digital Clock Is a Miniature Mechanical Marvel (hackaday.com)",
+    "votes": 6,
+    "username": "rcarmo",
+    "time": 1
+  },
+  {
+    "title": "EComStation 2.2 demo CD: bootable, not installable, version of OS/2 (ecomstation.com)",
+    "votes": 4,
+    "username": "lproven",
+    "time": 2
+  },
+  {
+    "title": "Cleaning a Spoon Is Complex (jefftk.com)",
+    "votes": 22,
+    "username": "mhb",
+    "time": 22
+  },
+  {
+    "title": "Declassified US nuclear targets \u2013 interactive map (futureoflife.org)",
+    "votes": 51,
+    "username": "dotsam",
+    "time": 1
+  },
+  {
+    "title": "EU Passes Law to Switch iPhone to USB-C by End of 2024 (macrumors.com)",
+    "votes": 629,
+    "username": "popol12",
+    "time": 6
+  },
+  {
+    "title": "What can\u2019t the internet handle in 2022? Apostrophes (wsj.com)",
+    "votes": 85,
+    "username": "prostoalex",
+    "time": 6
+  },
+  {
+    "title": "Is the world economy in a debt trap? (economist.com)",
+    "votes": 9,
+    "username": "gpayan",
+    "time": 2
+  },
+  {
+    "title": "The Schizoid Difference (eden.bearblog.dev)",
+    "votes": 111,
+    "username": "memorable",
+    "time": 6
+  },
+  {
+    "title": "PS5 4.03 Kernel Exploit (github.com/cryptogenic)",
+    "votes": 167,
+    "username": "aw1621107",
+    "time": 6
+  },
+  {
+    "title": "Ask HN: What is the biggest bullet you ever dodged?",
+    "votes": 21,
+    "username": "toomanyrichies",
+    "time": 2
+  },
+  {
+    "title": "Open Letter to the WHOSTP and Subcommittee on Open Science (ostp-letter.github.io)",
+    "votes": 19,
+    "username": "nsoonhui",
+    "time": 4
+  },
+  {
+    "title": "Vintage Computing Festival Berlin (VCFB) / October 8th and 9th, 2022 (vcfb.de)",
+    "votes": 5,
+    "username": "kls0e",
+    "time": 2
+  },
+  {
+    "title": "Mandated diversity statement drives Jonathan Haidt to quit academic society (reason.com)",
+    "votes": 599,
+    "username": "mpweiher",
+    "time": 8
+  },
+  {
+    "title": "Ancient footprints reveal 'Irish Sea Serengeti' (bbc.co.uk)",
+    "votes": 20,
+    "username": "_joel",
+    "time": 5
+  },
+  {
+    "title": "Methane Released from the Damaged Nord Stream Pipeline Is Visible from Space (universetoday.com)",
+    "votes": 5,
+    "username": "pseudolus",
+    "time": 23
+  },
+  {
+    "title": "Ukama: Run your own cellular data network (crowdsupply.com)",
+    "votes": 53,
+    "username": "rshi",
+    "time": 3
+  },
+  {
+    "title": "Cool HTML elements nobody uses (tapajyoti-bose.medium.com)",
+    "votes": 257,
+    "username": "nateb2022",
+    "time": 6
+  },
+  {
+    "title": "Post-pandemic, the battle between Uber and Lyft is looking more one-sided (wsj.com)",
+    "votes": 108,
+    "username": "prostoalex",
+    "time": 6
+  },
+  {
+    "title": "How Much Faster Is Making a Tar Archive Without Gzip? (lowendbox.com)",
+    "votes": 3,
+    "username": "edward",
+    "time": 2
+  },
+  {
+    "title": "Emulation on the M1 iPad Air [video] (youtube.com)",
+    "votes": 3,
+    "username": "redbell",
+    "time": 2
+  },
+  {
+    "title": "Get things done with Emacs (labri.fr)",
+    "votes": 291,
+    "username": "ducktective",
+    "time": 8
+  },
+  {
+    "title": "DVD drives turned into microscopes (hackaday.com)",
+    "votes": 122,
+    "username": "Tomte",
+    "time": 6
+  },
+  {
+    "title": "Cloning a Rare ISA Card to Use a Rare CD Drive [video] (youtube.com)",
+    "votes": 155,
+    "username": "fortran77",
+    "time": 7
+  },
+  {
+    "title": "False calls for active shooters are rising. Behind them is a strange pattern (npr.org)",
+    "votes": 25,
+    "username": "IAmGraydon",
+    "time": 2
+  },
+  {
+    "title": "Paris M\u00e9tro paper ticket reaches end of the line after more than 120 years (theguardian.com)",
+    "votes": 60,
+    "username": "tosh",
+    "time": 3
+  },
+  {
+    "title": "Bosses need to accept that employees choose what the future of work looks like (fortune.com)",
+    "votes": 29,
+    "username": "ianai",
+    "time": 2
+  },
+  {
+    "title": "OpenStreepMap 2012 vs. 2022 (osmz.ru)",
+    "votes": 398,
+    "username": "curiousfab",
+    "time": 9
+  },
+  {
+    "title": "Why are plants green? To reduce the noise in photosynthesis (worldsensorium.com)",
+    "votes": 240,
+    "username": "dnetesn",
+    "time": 8
+  },
+  {
+    "title": "RISC-V Laptop now available (tomshardware.com)",
+    "votes": 152,
+    "username": "thebetatester",
+    "time": 5
+  },
+  {
+    "title": "Tallest tree in Amazon rainforest reached by researchers after 3 yrs, 4 attempts (abc.net.au)",
+    "votes": 3,
+    "username": "rntn",
+    "time": 23
+  },
+  {
+    "title": "The City of London\u2019s oldest document is currently on public display (ianvisits.co.uk)",
+    "votes": 116,
+    "username": "zeristor",
+    "time": 6
+  },
+  {
+    "title": "Shrinking Mississippi River Puts American Farm Trade at Risks (gcaptain.com)",
+    "votes": 127,
+    "username": "tomohawk",
+    "time": 6
+  },
+  {
+    "title": "Ask HN: How can a total beginner start with self-hosting?",
+    "votes": 182,
+    "username": "kickaha",
+    "time": 4
+  },
+  {
+    "title": "Svante P\u00e4\u00e4bo awarded Nobel Prize for studies of extinct human ancestors (quantamagazine.org)",
+    "votes": 141,
+    "username": "shantanu_sharma",
+    "time": 7
+  },
+  {
+    "title": "Muon: GPU Based Electron on a Diet (github.com/imvexed)",
+    "votes": 171,
+    "username": "nateb2022",
+    "time": 7
+  },
+  {
+    "title": "Take Advantage of Git Rebase (about.gitlab.com)",
+    "votes": 112,
+    "username": "HieronymusBosch",
+    "time": 3
+  },
+  {
+    "title": "Rustc_codegen_GCC can now compile Rust for Linux (antoyo.xyz)",
+    "votes": 4,
+    "username": "mustache_kimono",
+    "time": 2
+  },
+  {
+    "title": "Fandom Acquires GameSpot, Giant Bomb, GameFAQs, TV Guide and Metacritic (about.fandom.com)",
+    "votes": 183,
+    "username": "haunter",
+    "time": 6
+  },
+  {
+    "title": "The Tendency Towards Solving Wicked Problems Reductively (2019) [pdf] (catbox.moe)",
+    "votes": 38,
+    "username": "CiceroCiceronis",
+    "time": 3
+  },
+  {
+    "title": "The Tyranny of Numbers: Mismeasurement and Misrule (1995) (archive.org)",
+    "votes": 26,
+    "username": "johntfella",
+    "time": 5
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (October 2022)",
+    "votes": 95,
+    "username": "whoishiring",
+    "time": 6
+  },
+  {
+    "title": "Samsung and AMD\u2019s profit slump suggests industry trouble for chipmakers (theverge.com)",
+    "votes": 5,
+    "username": "bubblehack3r",
+    "time": 1
+  },
+  {
+    "title": "Values Are Facts (overcomingbias.com)",
+    "votes": 24,
+    "username": "cinquemb",
+    "time": 5
+  },
+  {
+    "title": "Papa John's sued for 'wiretap' spying on website mouse clicks, keystrokes (theregister.com)",
+    "votes": 88,
+    "username": "rntn",
+    "time": 2
+  },
+  {
+    "title": "'A fluke': The oldest webcam is still watching over San Francisco (sfgate.com)",
+    "votes": 129,
+    "username": "Stratoscope",
+    "time": 6
+  },
+  {
+    "title": "A List of Hacker News's Undocumented Features and Behaviors (github.com/minimaxir)",
+    "votes": 225,
+    "username": "behnamoh",
+    "time": 6
+  },
+  {
+    "title": "Logical Fallacies \u2013 List of Logical Fallacies with Examples (logicalfallacies.org)",
+    "votes": 5,
+    "username": "dsego",
+    "time": 1
+  },
+  {
+    "title": "A global recession is almost certainly coming and the Fed is to blame, says UN (fortune.com)",
+    "votes": 21,
+    "username": "scifibestfi",
+    "time": 2
+  },
+  {
+    "title": "PayPal: The company can take $2,500 from your account for sharing misinformation (bgr.com)",
+    "votes": 48,
+    "username": "andsoitis",
+    "time": 1
+  },
+  {
+    "title": "Lychee \u2013 Self-hosted photo-management done right (lycheeorg.github.io)",
+    "votes": 260,
+    "username": "shrx",
+    "time": 8
+  },
+  {
+    "title": "Lyra V2 \u2013 a better, faster, and more versatile speech codec (googleblog.com)",
+    "votes": 229,
+    "username": "HieronymusBosch",
+    "time": 9
+  },
+  {
+    "title": "Highlights from Git 2.38 (github.blog)",
+    "votes": 127,
+    "username": "todsacerdoti",
+    "time": 6
+  },
+  {
+    "title": "PayPal Reverses, Won\u2019t Fine Customers $2,500 for \u2018Misinformation\u2019 After Backlash (yahoo.com)",
+    "votes": 44,
+    "username": "that",
+    "time": 1
+  },
+  {
+    "title": "Co-Founding Considered Harmful (florentcrivello.com)",
+    "votes": 248,
+    "username": "sylvainkalache",
+    "time": 9
+  },
+  {
+    "title": "MineDojo \u2013 Building Open-Ended Embodied Agents with Internet-Scale Knowledge (minedojo.org)",
+    "votes": 67,
+    "username": "theblazehen",
+    "time": 5
+  },
+  {
+    "title": "\u201cDon't spy on a privacy lab\u201d (career advice for university provosts) (pluralistic.net)",
+    "votes": 22,
+    "username": "dxs",
+    "time": 2
+  },
+  {
+    "title": "\u201cThe Onion\u201d Files a Supreme Court Brief (nytimes.com)",
+    "votes": 436,
+    "username": "fortran77",
+    "time": 5
+  },
+  {
+    "title": "Using machine learning to predict the leads that close (outfunnel.com)",
+    "votes": 57,
+    "username": "standrews",
+    "time": 4
+  },
+  {
+    "title": "On Mind Mapping (taoofmac.com)",
+    "votes": 6,
+    "username": "rcarmo",
+    "time": 1
+  },
+  {
+    "title": "Apple's CSAM detection system may not be perfect, but it is inevitable (appleinsider.com)",
+    "votes": 3,
+    "username": "bubblehack3r",
+    "time": 1
+  },
+  {
+    "title": "Telegraph Torts: The Lost Lineage of the Public Service Corporation (ssrn.com)",
+    "votes": 5,
+    "username": "johntfella",
+    "time": 2
+  },
+  {
+    "title": "Spark email client goes subscription path (sparkmailapp.com)",
+    "votes": 31,
+    "username": "boogdan",
+    "time": 5
+  },
+  {
+    "title": "Denys Davydov \u2013 My channel is now demonetized because I talk about the war (youtube.com)",
+    "votes": 9,
+    "username": "PaulHoule",
+    "time": 1
+  },
+  {
+    "title": "Recon and Attack Vectors from My Logs (gist.github.com)",
+    "votes": 195,
+    "username": "susam",
+    "time": 8
+  },
+  {
+    "title": "New DNA analysis shows how cats spread around the world (2016) (smithsonianmag.com)",
+    "votes": 46,
+    "username": "jelliclesfarm",
+    "time": 6
+  },
+  {
+    "title": "A 'nano factory' that fits inside a shipping container (2021) (cnn.com)",
+    "votes": 26,
+    "username": "Tomte",
+    "time": 3
+  },
+  {
+    "title": "Ask HN: Best examples of end-user facing documentation",
+    "votes": 28,
+    "username": "simonw",
+    "time": 3
+  },
+  {
+    "title": "Ask HN: How long did the honeymoon with your co-founder last?",
+    "votes": 31,
+    "username": "rodolphoarruda",
+    "time": 3
+  },
+  {
+    "title": "Saudi Arabia lowers oil prices for Europe but raises them again for the US (businessinsider.com)",
+    "votes": 22,
+    "username": "whack",
+    "time": 2
+  },
+  {
+    "title": "mod_wasm: Run WebAssembly with Apache (wasmlabs.dev)",
+    "votes": 124,
+    "username": "ereslibre",
+    "time": 6
+  },
+  {
+    "title": "Ask HN: Co-Founder? Seeking Co-Founder?",
+    "votes": 48,
+    "username": "kidsil",
+    "time": 4
+  },
+  {
+    "title": "The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It (scientificamerican.com)",
+    "votes": 35,
+    "username": "miletus",
+    "time": 3
+  },
+  {
+    "title": "The Anthropology of Farming Simulator (sapiens.org)",
+    "votes": 74,
+    "username": "CapitalistCartr",
+    "time": 6
+  },
+  {
+    "title": "The Chicxulub Impact Produced a Powerful Global Tsunami (wiley.com)",
+    "votes": 18,
+    "username": "sohkamyung",
+    "time": 5
+  },
+  {
+    "title": "Show HN: Sandworm.js \u2013 Easy auditing and sandboxing for JavaScript dependencies (github.com/sandworm-hq)",
+    "votes": 9,
+    "username": "sebivaduva",
+    "time": 2
+  },
+  {
+    "title": "Podcast on (Massive) Ad-Fraud (podcasts.apple.com)",
+    "votes": 42,
+    "username": "lifeisstillgood",
+    "time": 6
+  },
+  {
+    "title": "Business grew after controversial bike lane installed, data show (streetsblog.org)",
+    "votes": 6,
+    "username": "geox",
+    "time": 1
+  },
+  {
+    "title": "Does Company \u2018X\u2019 have an Azure Active Directory Tenant? (shawntabrizi.com)",
+    "votes": 212,
+    "username": "curiousmindz",
+    "time": 8
+  },
+  {
+    "title": "Ask HN: Recommend video streaming CDN service",
+    "votes": 24,
+    "username": "hknmtt",
+    "time": 3
+  },
+  {
+    "title": "A study of lights at night suggests dictators lie about economic growth (economist.com)",
+    "votes": 198,
+    "username": "gok",
+    "time": 7
+  },
+  {
+    "title": "Joining the Church of Emacs (fuzzypixelz.com)",
+    "votes": 132,
+    "username": "zetaposter",
+    "time": 7
+  },
+  {
+    "title": "Sauna use as a lifestyle practice to extend healthspan (sciencedirect.com)",
+    "votes": 297,
+    "username": "CharlesW",
+    "time": 7
+  },
+  {
+    "title": "Show HN: RankedVote \u2013 SurveyMonkey but focused on ranked-choice voting (rankedvote.co)",
+    "votes": 217,
+    "username": "tadmilbourn",
+    "time": 3
+  },
+  {
+    "title": "Data Version Control (dvc.org)",
+    "votes": 159,
+    "username": "HerrMonnezza",
+    "time": 7
+  },
+  {
+    "title": "Baker's Math (2009) (thefreshloaf.com)",
+    "votes": 204,
+    "username": "cwmartin",
+    "time": 7
+  },
+  {
+    "title": "SpaceX exploring mission to boost Hubble (orbitalindex.com)",
+    "votes": 168,
+    "username": "tectonic",
+    "time": 4
+  },
+  {
+    "title": "Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger (nobelprize.org)",
+    "votes": 262,
+    "username": "solarist",
+    "time": 6
+  },
+  {
+    "title": "Ubuntu Pro (ubuntu.com)",
+    "votes": 71,
+    "username": "kristianpaul",
+    "time": 4
+  },
+  {
+    "title": "Comfy Software: A software aesthetic for hackers with depression (catgirl.ai)",
+    "votes": 192,
+    "username": "vmoore",
+    "time": 8
+  },
+  {
+    "title": "Show HN: Infinite Music from the Boston Public Library (locserendipity.com)",
+    "votes": 4,
+    "username": "westcort",
+    "time": 2
+  },
+  {
+    "title": "Ask HN: Examples of Microkernels?",
+    "votes": 80,
+    "username": "agomez314",
+    "time": 6
+  },
+  {
+    "title": "US Media's Intellectual No-Fly-Zone on US Culpability in Nord Stream Attack (fair.org)",
+    "votes": 14,
+    "username": "throwaway_ns",
+    "time": 2
+  },
+  {
+    "title": "The lighthouse in economics (1974) [pdf] (cornell.edu)",
+    "votes": 46,
+    "username": "mooreds",
+    "time": 4
+  },
+  {
+    "title": "Interior AI autofills photo of room with CG furniture/art (interiorai.com)",
+    "votes": 134,
+    "username": "smugma",
+    "time": 6
+  },
+  {
+    "title": "\u2018Inventor of the Future\u2019 Review: Buckminster Fuller\u2019s Big Designs (wsj.com)",
+    "votes": 25,
+    "username": "Caiero",
+    "time": 5
+  },
+  {
+    "title": "What color is your markup? (t-ravis.com)",
+    "votes": 25,
+    "username": "ctrlmeta",
+    "time": 3
+  },
+  {
+    "title": "Japan WWII poison gas agents still scarring people today (mainichi.jp)",
+    "votes": 128,
+    "username": "tomohawk",
+    "time": 7
+  },
+  {
+    "title": "Why aren\u2019t you using pretrained models? (lrz.me)",
+    "votes": 99,
+    "username": "gk1",
+    "time": 6
+  },
+  {
+    "title": "ArriveCan\u2019s $54M price tag \u2018outrageous,\u2019 tech leaders say (theglobeandmail.com)",
+    "votes": 35,
+    "username": "r_singh",
+    "time": 2
+  },
+  {
+    "title": "Steve Yegge Joins as Head of Engineering of Sourcegraph (sourcegraph.com)",
+    "votes": 170,
+    "username": "misternugget",
+    "time": 5
+  },
+  {
+    "title": "How We Read Now (charlesschifano.substack.com)",
+    "votes": 40,
+    "username": "vitabenes",
+    "time": 6
+  },
+  {
+    "title": "Ask HN: Is A Tour of C++ the best way to learn c++?",
+    "votes": 6,
+    "username": "iudqnolq",
+    "time": 1
+  },
+  {
+    "title": "Show HN: uFuzzy.js \u2013 A tiny, efficient fuzzy search that doesn't suck (github.com/leeoniya)",
+    "votes": 251,
+    "username": "leeoniya",
+    "time": 9
+  },
+  {
+    "title": "Ask HN: Which math/CS books follow a top-down approach for pedagogy?",
+    "votes": 23,
+    "username": "curious16",
+    "time": 3
+  },
+  {
+    "title": "Mapped: The 3B People Who Can't Afford a Healthy Diet (visualcapitalist.com)",
+    "votes": 13,
+    "username": "thedday",
+    "time": 1
+  },
+  {
+    "title": "Bash one-liner to produce a list of HEX color codes that read like English words (gist.github.com)",
+    "votes": 198,
+    "username": "ailef",
+    "time": 8
+  },
+  {
+    "title": "How roasted almonds become marzipan (2018) (cnn.com)",
+    "votes": 57,
+    "username": "Tomte",
+    "time": 7
+  },
+  {
+    "title": "An elegy for GNU and RMS (catgirl.ai)",
+    "votes": 263,
+    "username": "todsacerdoti",
+    "time": 8
+  },
+  {
+    "title": "This is Life in the Metaverse (nytimes.com)",
+    "votes": 11,
+    "username": "pseudolus",
+    "time": 21
+  },
+  {
+    "title": "Show HN: Stock Photos Using Stable Diffusion (ghostlystock.com)",
+    "votes": 188,
+    "username": "jarrenae",
+    "time": 9
+  },
+  {
+    "title": "How to really know another person (hiddenbrain.org)",
+    "votes": 85,
+    "username": "gmays",
+    "time": 4
+  },
+  {
+    "title": "Bruce Willis denies selling rights to his face (bbc.com)",
+    "votes": 31,
+    "username": "andsoitis",
+    "time": 7
+  },
+  {
+    "title": "Show HN: How Sketch can win looking at there Qualitative Feedback? (olvy.co)",
+    "votes": 14,
+    "username": "mddanishyusuf",
+    "time": 4
+  },
+  {
+    "title": "Xerox PARC \u2013 Office Alto Commercial (1979) [video] (youtube.com)",
+    "votes": 86,
+    "username": "akamaka",
+    "time": 6
+  },
+  {
+    "title": "Bai Juyi: The Tang dynasty\u2019s baldest poet (medievalists.net)",
+    "votes": 33,
+    "username": "apollinaire",
+    "time": 5
+  },
+  {
+    "title": "The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018) (intechopen.com)",
+    "votes": 39,
+    "username": "graderjs",
+    "time": 6
+  },
+  {
+    "title": "Switching World to Renewable Energy Will Cost $62T, Payback Would Take 6 Years (cleantechnica.com)",
+    "votes": 44,
+    "username": "f_allwein",
+    "time": 1
+  },
+  {
+    "title": "Bryan Cantrill: I have come to bury the BIOS, not to open it [video] (osfc.io)",
+    "votes": 11,
+    "username": "panick21_",
+    "time": 4
+  },
+  {
+    "title": "US Job Outlook for Software Developers, Quality Assurance Analysts, and Testers (bls.gov)",
+    "votes": 61,
+    "username": "mooreds",
+    "time": 5
+  },
+  {
+    "title": "JEP draft: 64 bit object headers (openjdk.org)",
+    "votes": 3,
+    "username": "mfiguiere",
+    "time": 2
+  },
+  {
+    "title": "China lashes out at latest U.S. export controls on chips (seattletimes.com)",
+    "votes": 6,
+    "username": "MilnerRoute",
+    "time": 14
+  },
+  {
+    "title": "Ask HN: Did Facebook read my WhatsApp chat and target me with an ad?",
+    "votes": 9,
+    "username": "puttycat",
+    "time": 1
+  },
+  {
+    "title": "The TC39 Process (tc39.es)",
+    "votes": 28,
+    "username": "legrande",
+    "time": 6
+  },
+  {
+    "title": "New (LTE) Rotary Cell Phone [video] (youtube.com)",
+    "votes": 309,
+    "username": "xwx",
+    "time": 11
+  },
+  {
+    "title": "Character.ai (character.ai)",
+    "votes": 282,
+    "username": "wb14123",
+    "time": 10
+  },
+  {
+    "title": "\u201cPrivacy\u201d.com\u2013Yeah Right (ersei.net)",
+    "votes": 151,
+    "username": "d4a",
+    "time": 6
+  },
+  {
+    "title": "Show HN: Generate code and diagrams from live infrastructure, AWS/Azure/GCP (grucloud.com)",
+    "votes": 28,
+    "username": "frederich",
+    "time": 5
+  },
+  {
+    "title": "Nix Team Creation (nixos.org)",
+    "votes": 155,
+    "username": "slb",
+    "time": 4
+  },
+  {
+    "title": "Too Much Internet (edzitron.medium.com)",
+    "votes": 124,
+    "username": "herbertl",
+    "time": 7
+  },
+  {
+    "title": "Brief of the Onion as Amicus Curiae in Support of Petitioner [pdf] (supremecourt.gov)",
+    "votes": 79,
+    "username": "jeff_tyrrill",
+    "time": 6
+  },
+  {
+    "title": "Apple \u2018notebooks\u2019 become \u2018laptops\u2019 in sweeping Mac branding change (9to5mac.com)",
+    "votes": 21,
+    "username": "obiefernandez",
+    "time": 2
+  },
+  {
+    "title": "macOS scanning and following downloaded QR codes has been retracted (twitter.com/hodgesmr)",
+    "votes": 235,
+    "username": "lilyball",
+    "time": 4
+  },
+  {
+    "title": "A call to reconsider memory address-space isolation in Linux (lwn.net)",
+    "votes": 218,
+    "username": "chmaynard",
+    "time": 10
+  },
+  {
+    "title": "Seer \u2013 a GUI front end to GDB for Linux (github.com/epasveer)",
+    "votes": 209,
+    "username": "gjvc",
+    "time": 9
+  },
+  {
+    "title": "Peter Daszak has a new grant from the NIH to study bat coronaviruses in the wild (nih.gov)",
+    "votes": 74,
+    "username": "nailer",
+    "time": 6
+  },
+  {
+    "title": "Xkcd: Easy or Hard (xkcd.com)",
+    "votes": 76,
+    "username": "FabHK",
+    "time": 2
+  },
+  {
+    "title": "Software, not hardware, will drive quantum and neuromorphic computing (nextplatform.com)",
+    "votes": 41,
+    "username": "rntn",
+    "time": 7
+  },
+  {
+    "title": "Review of An Intimate History of Evolution by Alison Bashford (theguardian.com)",
+    "votes": 11,
+    "username": "pepys",
+    "time": 3
+  },
+  {
+    "title": "Meta Connect 2022 \u2013 Virtual Event (metaconnect.com)",
+    "votes": 18,
+    "username": "meltyness",
+    "time": 5
+  },
+  {
+    "title": "US Government plans to develop AI that can unmask anonymous writers (reclaimthenet.org)",
+    "votes": 191,
+    "username": "NickRandom",
+    "time": 9
+  },
+  {
+    "title": "$600M Binance Hack (coindesk.com)",
+    "votes": 36,
+    "username": "99112000",
+    "time": 3
+  },
+  {
+    "title": "From Pythonista to Rustacean (github.com/rochacbruno)",
+    "votes": 241,
+    "username": "behnamoh",
+    "time": 4
+  },
+  {
+    "title": "SpinLaunch just catapulted a NASA payload into the sky for the first time (interestingengineering.com)",
+    "votes": 35,
+    "username": "rmason",
+    "time": 3
+  },
+  {
+    "title": "Google picks South Africa for its first cloud region in Africa (techcrunch.com)",
+    "votes": 79,
+    "username": "unripe_syntax",
+    "time": 5
+  },
+  {
+    "title": "For personal reasons, I do not browse the web from my computer. (2007) (lwn.net)",
+    "votes": 32,
+    "username": "nvr219",
+    "time": 6
+  },
+  {
+    "title": "Autistic children with imaginary friends have better social skills (bps.org.uk)",
+    "votes": 106,
+    "username": "EndXA",
+    "time": 7
+  },
+  {
+    "title": "Stellarium 1.0 (stellarium.org)",
+    "votes": 471,
+    "username": "bscphil",
+    "time": 8
+  },
+  {
+    "title": "The HTML5 Shiv (2011) (paulirish.com)",
+    "votes": 76,
+    "username": "robin_reala",
+    "time": 6
+  },
+  {
+    "title": "Cloudflare is breaking the internet by requiring \"JavaScript and cookies\u201c (imgur.com)",
+    "votes": 79,
+    "username": "EastSmith",
+    "time": 5
+  },
+  {
+    "title": "1M Facebook Usernames, Passwords May Have Been Stolen (Meta) (bloomberg.com)",
+    "votes": 20,
+    "username": "helsinkiandrew",
+    "time": 2
+  },
+  {
+    "title": "PO-80 Record Factory (teenage.engineering)",
+    "votes": 244,
+    "username": "bpierre",
+    "time": 10
+  },
+  {
+    "title": "Eye-tracking is a missing input device for VR experiences (mlajtos.mu)",
+    "votes": 133,
+    "username": "mlajtos",
+    "time": 8
+  },
+  {
+    "title": "Boston Dynamics and five other tech firms pledge not to weaponize their robots (npr.org)",
+    "votes": 10,
+    "username": "sizzle",
+    "time": 2
+  },
+  {
+    "title": "Linux Kernel 6.0 (lwn.net)",
+    "votes": 349,
+    "username": "ecliptik",
+    "time": 7
+  },
+  {
+    "title": "Rust's Safety Is Effective (twitter.com/linaasahi)",
+    "votes": 68,
+    "username": "unrealhoang",
+    "time": 4
+  },
+  {
+    "title": "New asteroid strike images show impact 'a lot bigger than expected' (spacedaily.com)",
+    "votes": 121,
+    "username": "docmechanic",
+    "time": 7
+  },
+  {
+    "title": "Looped Square Or \u2318 (wikipedia.org)",
+    "votes": 225,
+    "username": "Ali_Zaferani",
+    "time": 10
+  },
+  {
+    "title": "Ionos had an unreported outage today",
+    "votes": 20,
+    "username": "MarcellusDrum",
+    "time": 3
+  },
+  {
+    "title": "HHS purchases $290M worth of drugs for nuclear emergencies (hhs.gov)",
+    "votes": 231,
+    "username": "Animatronio",
+    "time": 5
+  },
+  {
+    "title": "A Drunk Driver Led to the Birth of Russia\u2019s Sputnik 1 (medium.com/science-and-philosophy)",
+    "votes": 28,
+    "username": "samclemens",
+    "time": 3
+  },
+  {
+    "title": "Lowest \u201cWho is hiring?\u201d Post Count in 30 Months",
+    "votes": 457,
+    "username": "trenning",
+    "time": 5
+  },
+  {
+    "title": "Ask HN: How to find what I am really good at?",
+    "votes": 232,
+    "username": "pr07ecH70r",
+    "time": 6
+  },
+  {
+    "title": "Partitioning in Postgres, 2022 Edition (brandur.org)",
+    "votes": 109,
+    "username": "plaur782",
+    "time": 4
+  },
+  {
+    "title": "Ask HN: How to get started with real-time Linux?",
+    "votes": 65,
+    "username": "withoutsnow",
+    "time": 5
+  },
+  {
+    "title": "Sridhar Vembu built Zoho by questioning the conventional wisdom (foundingfuel.com)",
+    "votes": 125,
+    "username": "sokradhar",
+    "time": 8
+  },
+  {
+    "title": "Ask HN: Is there a way to filter Lex Fridman out of his interviews?",
+    "votes": 32,
+    "username": "gtsnexp",
+    "time": 2
+  },
+  {
+    "title": "The Pixel Watch is official: $349, good looks, and a four-year-old SoC (arstechnica.com)",
+    "votes": 43,
+    "username": "yellow_postit",
+    "time": 3
+  },
+  {
+    "title": "Ask HN: Is Django a good choice as a framework for starting up in 2022",
+    "votes": 7,
+    "username": "ptrenko",
+    "time": 2
+  },
+  {
+    "title": "I was charged $39,000 for 15-minute Uber ride after drunken night (nypost.com)",
+    "votes": 17,
+    "username": "rmason",
+    "time": 2
+  },
+  {
+    "title": "Palantir Had Secret Plan to Crack UK\u2019s NHS: \u2018Buying Our Way In\u2019 (bloomberg.com)",
+    "votes": 223,
+    "username": "disabled",
+    "time": 8
+  },
+  {
+    "title": "Safe to swim in nuclear spent fuel pool? (xkcd.com)",
+    "votes": 52,
+    "username": "83457",
+    "time": 4
+  },
+  {
+    "title": "Buggy software, loyal users: why bug reporting is key to user retention (codewithoutrules.com)",
+    "votes": 5,
+    "username": "behnamoh",
+    "time": 1
+  },
+  {
+    "title": "Stadia died because no one trusts Google (techcrunch.com)",
+    "votes": 722,
+    "username": "lots2learn",
+    "time": 8
+  },
+  {
+    "title": "Impoverished Emotional Lives (theconvivialsociety.substack.com)",
+    "votes": 120,
+    "username": "imartin2k",
+    "time": 7
+  },
+  {
+    "title": "Show HN: I unlocked reaching 10.000 real potential customers as low cost as $50",
+    "votes": 37,
+    "username": "denizcansanlav",
+    "time": 5
+  },
+  {
+    "title": "Facts about State Machines (github.com/cpressey)",
+    "votes": 215,
+    "username": "zdw",
+    "time": 9
+  },
+  {
+    "title": "Locked out of two Microsoft accounts",
+    "votes": 9,
+    "username": "simlevesque",
+    "time": 2
+  },
+  {
+    "title": "Researchers develop new rocket-propulsion system (2020) (ucf.edu)",
+    "votes": 27,
+    "username": "zeristor",
+    "time": 6
+  },
+  {
+    "title": "I built my own future-proof laptop \u2013 and it's a game changer (tomsguide.com)",
+    "votes": 7,
+    "username": "redbell",
+    "time": 1
+  },
+  {
+    "title": "Feel the power of the Manifest v3 (github.com/gildas-lormeau)",
+    "votes": 320,
+    "username": "keks24",
+    "time": 7
+  },
+  {
+    "title": "The next generation of Materialize (materialize.com)",
+    "votes": 146,
+    "username": "mmedellin",
+    "time": 6
+  },
+  {
+    "title": "Keeping cool: A common refrigerant shows promise for metal recycling (phys.org)",
+    "votes": 28,
+    "username": "PaulHoule",
+    "time": 7
+  },
+  {
+    "title": "Virtual Threads: New Foundations for High-Scale Java Applications (infoq.com)",
+    "votes": 213,
+    "username": "axelfontaine",
+    "time": 10
+  },
+  {
+    "title": "Ask HN: How to figure out why free users don't convert?",
+    "votes": 9,
+    "username": "thorum",
+    "time": 2
+  },
+  {
+    "title": "Use Bookmarklets on Chrome on Android (2020) (kinlan.me)",
+    "votes": 38,
+    "username": "danuker",
+    "time": 7
+  },
+  {
+    "title": "Solo founder dilemma; CEO or CTO? (nvnt.substack.com)",
+    "votes": 248,
+    "username": "navaneethpk",
+    "time": 8
+  },
+  {
+    "title": "Reducing logging cost by two orders of magnitude using CLP (uber.com)",
+    "votes": 204,
+    "username": "ath0",
+    "time": 10
+  },
+  {
+    "title": "Domain Pascal Language Reference (1987) [pdf] (uni-stuttgart.de)",
+    "votes": 39,
+    "username": "Tomte",
+    "time": 8
+  },
+  {
+    "title": "Show HN: Dead Acquire \u2013 Sell your pre-revenue or dead side-project (deadacquire.com)",
+    "votes": 49,
+    "username": "falak-sher",
+    "time": 6
+  },
+  {
+    "title": "When the push button was new, people were freaked (jstor.org)",
+    "votes": 304,
+    "username": "SongofEarth",
+    "time": 11
+  },
+  {
+    "title": "Pop_OS Cosmic Desktop to Make Use of Iced Rust Toolkit Rather Than GTK (phoronix.com)",
+    "votes": 132,
+    "username": "dbcooper",
+    "time": 6
+  },
+  {
+    "title": "The Gibson Rev 001 Dual LCD/E-Ink Cyberdeck (hackaday.io)",
+    "votes": 52,
+    "username": "rcarmo",
+    "time": 5
+  },
+  {
+    "title": "Mocking the Police Is Not a Crime (reason.com)",
+    "votes": 44,
+    "username": "fortran77",
+    "time": 4
+  },
+  {
+    "title": "Researchers develop thermoformable ceramics, 'a new frontier in materials' (phys.org)",
+    "votes": 3,
+    "username": "PaulHoule",
+    "time": 2
+  },
+  {
+    "title": "Researchers successfully convert methane gas into liquid methanol (scitechdaily.com)",
+    "votes": 71,
+    "username": "geox",
+    "time": 6
+  },
+  {
+    "title": "The Origin of Cultivated Fruits and Vegetables (nau.edu)",
+    "votes": 8,
+    "username": "melenaboija",
+    "time": 1
+  },
+  {
+    "title": "Show HN: Let the computer be your unique t-shirt designer with Stable Diffusion (thisshirtexists.com)",
+    "votes": 48,
+    "username": "mpaepper",
+    "time": 5
+  },
+  {
+    "title": "Their Loved Ones Died. Preserved Tattoos Offer a Way to Keep Them Close (nytimes.com)",
+    "votes": 4,
+    "username": "fortran77",
+    "time": 1
+  },
+  {
+    "title": "Head of election worker management company arrested for theft of personal data (lacounty.gov)",
+    "votes": 188,
+    "username": "happyopossum",
+    "time": 4
+  },
+  {
+    "title": "Introduction to the Theory of Programming Languages (1991) (bertrandmeyer.com)",
+    "votes": 199,
+    "username": "ingve",
+    "time": 10
+  },
+  {
+    "title": "Who\u2019s Operating Your Flight? Air Travel Is Getting More Complicated (wsj.com)",
+    "votes": 10,
+    "username": "prostoalex",
+    "time": 4
+  },
+  {
+    "title": "The Rise of Fully Homomorphic Encryption (acm.org)",
+    "votes": 285,
+    "username": "yarapavan",
+    "time": 11
+  },
+  {
+    "title": "The Crimean Bridge Is on Fire (twitter.com/saintjavelin)",
+    "votes": 137,
+    "username": "frogger8",
+    "time": 2
+  },
+  {
+    "title": "A legal dispute that will test the limits of fair use (theatlantic.com)",
+    "votes": 141,
+    "username": "fortran77",
+    "time": 8
+  },
+  {
+    "title": "Tell HN: Vertical Tabs in Brave",
+    "votes": 4,
+    "username": "gnicholas",
+    "time": 1
+  },
+  {
+    "title": "USB kills off SuperSpeed branding (theverge.com)",
+    "votes": 138,
+    "username": "vedanshbhartia",
+    "time": 8
+  },
+  {
+    "title": "FCC Approves 5 Year Satellite Deorbiting Rule (payloadspace.com)",
+    "votes": 183,
+    "username": "sebg",
+    "time": 9
+  },
+  {
+    "title": "Great Works in Programming Languages (2004) (upenn.edu)",
+    "votes": 130,
+    "username": "mooreds",
+    "time": 8
+  },
+  {
+    "title": "How to turn waste polyethylene into something useful (economist.com)",
+    "votes": 19,
+    "username": "helsinkiandrew",
+    "time": 5
+  },
+  {
+    "title": "Musk Blames Everyone but Himself for the Twitter Deal Hold Ups (arstechnica.com)",
+    "votes": 13,
+    "username": "metadat",
+    "time": 2
+  },
+  {
+    "title": "The Eleventh Commandment (2004) (taoofmac.com)",
+    "votes": 15,
+    "username": "rcarmo",
+    "time": 6
+  },
+  {
+    "title": "Bypassing Hotspot Limits on iOS (2021) (cyrusroshan.com)",
+    "votes": 10,
+    "username": "thedg",
+    "time": 2
+  },
+  {
+    "title": "The Thorny Problem of Keeping the Internet\u2019s Time (newyorker.com)",
+    "votes": 64,
+    "username": "aarghh",
+    "time": 9
+  },
+  {
+    "title": "Ask HN: Is DNS and HTTPS on a private network a problem for you?",
+    "votes": 23,
+    "username": "hugodutka",
+    "time": 3
+  },
+  {
+    "title": "Go Auth Lib (github.com/go-pkgz)",
+    "votes": 100,
+    "username": "debdut",
+    "time": 7
+  },
+  {
+    "title": "The Onion defends right to parody in Supreme Court brief (theguardian.com)",
+    "votes": 98,
+    "username": "mgbmtl",
+    "time": 6
+  },
+  {
+    "title": "We\u2019re adding barcodes to our regular stamps (royalmail.com)",
+    "votes": 81,
+    "username": "admp",
+    "time": 4
+  },
+  {
+    "title": "Books are physically changing because of inflation (economist.com)",
+    "votes": 67,
+    "username": "pseudolus",
+    "time": 11
+  },
+  {
+    "title": "Facebook to purge thousands of workers as part of \u2018quiet layoffs\u2019 (nypost.com)",
+    "votes": 74,
+    "username": "busymom0",
+    "time": 5
+  },
+  {
+    "title": "Timelapse of the Future: A Journey to the End of Time [video] (youtube.com)",
+    "votes": 55,
+    "username": "thunderbong",
+    "time": 8
+  },
+  {
+    "title": "Artificial superstrong silkworm silk surpasses natural spider silks (cell.com)",
+    "votes": 3,
+    "username": "WaitWaitWha",
+    "time": 2
+  },
+  {
+    "title": "The Art of Logging (medium.com/jaouherk)",
+    "votes": 78,
+    "username": "kiyanwang",
+    "time": 4
+  },
+  {
+    "title": "Fuzzing Trackmania Nations Forever for RCE (bricked.tech)",
+    "votes": 41,
+    "username": "louislang",
+    "time": 4
+  },
+  {
+    "title": "Show HN: FocusedEdit \u2013 a classic Macintosh to web browser shared text editor (github.com/camhenlin)",
+    "votes": 83,
+    "username": "camhenlin",
+    "time": 7
+  },
+  {
+    "title": "Identity and Access Management Workforce Planning (idpro.org)",
+    "votes": 42,
+    "username": "mooreds",
+    "time": 7
+  },
+  {
+    "title": "Rust and Elixir libraries for end-to-end encrypted secure communication (github.com/build-trust)",
+    "votes": 176,
+    "username": "mooreds",
+    "time": 9
+  },
+  {
+    "title": "Pg_squeeze: An extension to fix table bloat (cybertec-postgresql.com)",
+    "votes": 62,
+    "username": "soheilpro",
+    "time": 5
+  }
+]
