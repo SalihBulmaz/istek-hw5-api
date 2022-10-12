@@ -73,8 +73,19 @@ router.post("/comment", async (req, res, next) => {
   return res.status(400).send();
 });
 
-router.post('/vote', async (req, res, next) => {
-    
-})
+router.post("/vote", async (req, res, next) => {
+  if (req.body.userId && req.body.newId) {
+    try {
+      const hackernew = await New.findById(req.body.hackernewId);
+      hackernew.votes = hackernew.votes + 1;
+      await hackernew.save();
+      return res.send();
+    } catch (error) {
+      return res.status(500).send();  
+    }
+  } else {
+    return res.status(400).send();
+  }
+});
 
 module.exports = router;
