@@ -73,15 +73,36 @@ router.post("/comment", async (req, res, next) => {
   return res.status(400).send();
 });
 
+router.get("/comment", async (req, res, next) => {
+  if (
+    !ObjectId.isValid(req.query.userId) ||
+    !ObjectId.isValid(req.query.hackernewId)
+  ) {
+    return res.status(400).send();
+  }
+  try {
+    if (req.query.hackernewId) {
+      return res.json(
+        await Comment.find({ hackernewId: req.query.hackernewId })
+      );
+    } else if (req.query.userId) {
+      return res.json(await Comment.find({ userId: req.query.userId }));
+    }
+  } catch (error) {
+    return res.status(500).send();
+  }
+  return res.status(400).send();
+});
+
 router.post("/vote", async (req, res, next) => {
-  if (req.body.userId && req.body.newId) {
+  if (req.body.userId && req.body.hackernewId) {
     try {
       const hackernew = await New.findById(req.body.hackernewId);
       hackernew.votes = hackernew.votes + 1;
       await hackernew.save();
       return res.send();
     } catch (error) {
-      return res.status(500).send();  
+      return res.status(500).send();
     }
   } else {
     return res.status(400).send();
